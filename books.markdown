@@ -4,11 +4,27 @@ title: books
 permalink: /books/
 ---
 
-Books I've read. Asterisks for those I'd recommend
+**Thoughts on reading**
+
+My reading taste started out mostly from books I'd heard recommended on podcasts. I wouldn't recommend many of these early reads, some of which I'd actually recommend against reading, but this semi-random walk noticeably improved my reading ability and set the stage for not fearing any book due to its difficulty (except maybe Finnegan's Wake). I think I reached this stage in late 2023. Nowadays I'm making my way through classic literature and history, including many books from [this list](https://a16z.com/what-ive-been-up-to-lately/).
+
+My current process for finding books is to have a running [Amazon list](https://www.amazon.com/hz/wishlist/ls/1KCMPBSI2K7NI?ref_=wl_share) and whenever I hear an interesting recommendation I add it to the list. The easier it is to buy, the more likely I am to read it. I've recently been buying from used book stores to find those I wouldn't have found otherwise, but I think this is most beneficial if you have a solid foundation and know how to recognize an interesting book. I don't listen to audiobooks or read on digital devices (laptop, phone, kindle) as I find my comprehension is lower compared to print.
+
+If I'm reading non-fiction and I realize after 50-100 pages that I don't care for the book, I skim through it as fast as possible, reading the chapter conclusions and resuming reading if I come across something interesting. If it is fiction and I get ~100 pages in, and I have no reason to believe the book will improve, I put the book down and move on. I'm working on getting better at doing this.
+
+When I first started reading I was obssessed with ensuring to remember the core facts or theses from a given book. This necessitated taking notes, underlining, reading all of the footnotes, etc. I think this desire arose from the way reading is taught in school. I'm now under the impression that this is a bad idea unless you are actively going to write about that book. It disrupts the flow of reading and makes reading feel stressful. My current approach is to just read the book, and if I come across any gems of sentences to mark them in the book and dog-ear the page. My current rate of doing this is 0-2 times per book.
+
+I'm usually reading between 2-4 books at any given time, but no more than that.
+
+It may seem that to read this much I must neglect my primary work. But the time I spend reading is the time that others spend browsing social media or watching shows. It's a tradeoff that I find worthwhile; I am less in the loop but my worldview is stronger (or so I hope).
+
+<br/><br/>
+
+**Books I've read** (Bold for those I'd recommend to a broad audience.)
 
 2024:
-- **Hyperion** <span style="color:gray">by Dan Simmons</span> Enjoyable sci-fi with plausible technology. Great worldbuilding.
-- **One Hundred Years of Solitude** <span style="color:gray">by Gabriel Garcia Marquez</span> This is a special book.
+- **Hyperion** <span style="color:gray">by Dan Simmons</span>
+- **One Hundred Years of Solitude** <span style="color:gray">by Gabriel Garcia Marquez</span>
 - The Science of Can and Can’t <span style="color:gray">by Chiara Marletto</span>
 - The Double Helix <span style="color:gray">by James Watson</span>
 - The Selfish Gene <span style="color:gray">by Richard Dawkins</span>
@@ -18,10 +34,9 @@ Books I've read. Asterisks for those I'd recommend
 - **The Diary of Young Girl** <span style="color:gray">by Anne Frank</span>
 - The Ascent of Man <span style="color:gray">by Jacob Bronowski</span>
 - Lolita <span style="color:gray">by Vladimir Nabokov</span>
-- Radical Chicago & Mau-Mauing the Flak Catchers <span style="color:gray">by Tom Wolfe</span>
+- Radical Chic & Mau-Mauing the Flak Catchers <span style="color:gray">by Tom Wolfe</span>
 - Letter from Birmingham Jail <span style="color:gray">by Martin Luther King Jr</span>
 - The Managerial Revolution <span style="color:gray">by James Burnham</span>
-- Consider Phlebas <span style="color:gray">by Iaian Banks</span> Partially through. May finish later.
 - The True Believer <span style="color:gray">by Eric Hoffer</span>
 - Leave Me Alone and I’ll Make You Rich <span style="color:gray">by McCloskey and Carden</span>
 - **Autobiography** <span style="color:gray">by Benjamin Franklin</span>
@@ -54,7 +69,7 @@ Books I've read. Asterisks for those I'd recommend
 - What I Learned Losing a Million Dollars <span style="color:gray">by Paul and Moynihan</span>
 - The Book <span style="color:gray">by Alan Watts</span>
 - **Godel, Escher, Bach** <span style="color:gray">by Douglas Hofstadter</span>
-- What do you care what other people think <span style="color:gray">by Richard Feynman</span>
+- What Do You Care What Other People Think? <span style="color:gray">by Richard Feynman</span>
 - **The Fabric of Reality** <span style="color:gray">by David Deutsch</span>
 - Six Not So Easy Pieces <span style="color:gray">by Richard Feynman</span>
 - How Innovation Works <span style="color:gray">by Matt Ridley</span>
@@ -95,7 +110,6 @@ Books I've read. Asterisks for those I'd recommend
 - **The Beginning of Infinity** <span style="color:gray">by David Deutsch</span>
 - Managing Oneself <span style="color:gray">by Peter Drucker</span>
 - Enlightenment Now <span style="color:gray">by Steven Pinker</span>
-- Noise <span style="color:gray">by Daniel Kahneman. Quit 1/3 of the way through.</span>
 - Four Hour Workweek <span style="color:gray">by Tim Ferriss</span>
 - Enchiridion <span style="color:gray">by Epictetus</span>
 - Fooled by Randomness <span style="color:gray">by Nassim Taleb</span>
@@ -121,9 +135,9 @@ Books I've read. Asterisks for those I'd recommend
 - Atlas Shrugged <span style="color:gray">by Ayn Rand</span>
 - Man’s Search for Meaning <span style="color:gray">by Viktor Frankl</span>
 - The Sun Also Rises <span style="color:gray">by Ernest Hemingway</span>
-- Principle: Life & Work <span style="color:gray">by Ray Dalio</span>
+- Principles: Life & Work <span style="color:gray">by Ray Dalio</span>
 - How to Change Your Mind <span style="color:gray">by Michael Pollan</span>
-- Catch-22 <span style="color:gray">by Joseph Heller</span>
+- **Catch-22** <span style="color:gray">by Joseph Heller</span>
 - Sapiens <span style="color:gray">by Yuval Noah Harari</span>
 - Homo Deus <span style="color:gray">by Yuval Noah Harari</span>
 - How to Win Friends & Influence People <span style="color:gray">by Dale Carnegie</span>
@@ -142,7 +156,7 @@ Books I've read. Asterisks for those I'd recommend
 - I Contain Multitudes <span style="color:gray">by Ed Yong</span>
 - The Vital Question <span style="color:gray">by Nick Lane</span>
 - The Lessons of History <span style="color:gray">by Will & Ariel Durant</span>
-- Moonwalking with Einstein <span style="color:gray">by Joshua For</span>
+- Moonwalking with Einstein <span style="color:gray">by Joshua Foer</span>
 - Physics of Wall Street <span style="color:gray">by James Owen Weatherall</span>
 
 2019:
