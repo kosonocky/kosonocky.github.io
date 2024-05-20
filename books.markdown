@@ -48,7 +48,6 @@ It may seem that to read this much I must neglect my primary work. But the time 
 - 1984 <span style="color:gray">by George Orwell</span>
 - 12 Rules for Life <span style="color:gray">by Jordan Peterson</span>
 - What Makes Sammy Run <span style="color:gray">by Budd Schulberg</span>
-- Sex at Dawn <span style="color:gray">by Christopher Ryan</span>
 - **The Plague** <span style="color:gray">by Albert Camus</span>
 - **The Trial** <span style="color:gray">by Franz Kafka</span>
 - To Kill a Mockingbird <span style="color:gray">by Harper Lee</span>
