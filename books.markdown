@@ -40,6 +40,8 @@ It may seem that to read this much I must neglect my primary work. But the time 
 - The True Believer <span style="color:gray">by Eric Hoffer</span>
 - Leave Me Alone and I’ll Make You Rich <span style="color:gray">by McCloskey and Carden</span>
 - **Autobiography** <span style="color:gray">by Benjamin Franklin</span>
+- **The Brothers Karamazov** <span style="color:gray">by Fyodor Dostoyevsky</span>
+- Norwegian Wood <span style="color:gray">by Haruki Murakami</span>
 
 2023:
 - **A Farewell to Arms** <span style="color:gray">by Ernest Hemingway</span>
