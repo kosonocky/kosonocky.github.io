@@ -27,6 +27,7 @@ permalink: /books/archive
 - Autobiography <span style="color:gray">by Benjamin Franklin</span>
 - The Brothers Karamazov <span style="color:gray">by Fyodor Dostoyevsky</span>
 - Norwegian Wood <span style="color:gray">by Haruki Murakami</span>
+- The Gambler <span style="color:gray">by Fyodor Dostoyevsky</span>
 
 2023:
 - A Farewell to Arms <span style="color:gray">by Ernest Hemingway</span>
