@@ -165,4 +165,4 @@ It may seem that to read this much I must neglect my primary work. But the time 
 
 <br/><br/>
 
-[List](books_archive.markdown) of all books I've read in chronological order.
+[List](/books/archive) of all books I've read in chronological order.
