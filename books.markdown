@@ -2,7 +2,6 @@
 layout: page
 title: books
 permalink: /books/
-nav_exclude: false
 ---
 
 **Thoughts on reading**

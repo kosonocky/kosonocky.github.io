@@ -2,7 +2,6 @@
 layout: page
 title: books archive
 permalink: /books/archive
-nav_exclude: true
 ---
 
 
