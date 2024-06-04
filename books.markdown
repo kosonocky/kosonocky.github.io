@@ -91,6 +91,7 @@ It may seem that to read this much I must neglect my primary work. But the time 
 - Skin in the Game <span style="color:gray">by Nassim Taleb</span>
 - Zero to One <span style="color:gray">by Peter Thiel</span>
 - The Hobbit <span style="color:gray">by JRR Tolkien</span>
+- The Cossacks <span style="color:gray">by Leo Tolstoy</span>
 - Elon Musk <span style="color:gray">by Ashlee Vance</span>
 - Cats Cradle <span style="color:gray">by Kurt Vonnegut</span>
 - Slaughterhouse Five <span style="color:gray">by Kurt Vonnegut</span>
