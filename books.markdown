@@ -24,7 +24,7 @@ It may seem that to read this much I must neglect my primary work. But the time 
 - **The Plague** <span style="color:gray">by Albert Camus</span>
 - **The Fabric of Reality** <span style="color:gray">by David Deutsch</span>
 - **The Beginning of Infinity** <span style="color:gray">by David Deutsch</span>
-- **The Brothers Karamazov** <span style="color:gray">by Fyodor Dostoyevsky</span>
+- **The Brothers Karamazov** <span style="color:gray">by Fyodor Dostoevsky</span>
 - **The Diary of Young Girl** <span style="color:gray">by Anne Frank</span>
 - **Autobiography** <span style="color:gray">by Benjamin Franklin</span>
 - **Lying** <span style="color:gray">by Sam Harris</span>
@@ -45,7 +45,7 @@ It may seem that to read this much I must neglect my primary work. But the time 
 - Fahrenheit 451 <span style="color:gray">by Ray Bradbury</span>
 - The Managerial Revolution <span style="color:gray">by James Burnham</span>
 - The Stranger <span style="color:gray">by Albert Camus</span>
-- The Gambler <span style="color:gray">by Fyodor Dostoyevsky</span>
+- The Gambler <span style="color:gray">by Fyodor Dostoevsky</span>
 - Enchiridion <span style="color:gray">by Epictetus</span>
 - Surely You’re Joking Mr. Feynman <span style="color:gray">by Richard Feynman</span>
 - What Do You Care What Other People Think? <span style="color:gray">by Richard Feynman</span>

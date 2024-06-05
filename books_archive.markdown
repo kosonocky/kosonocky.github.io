@@ -25,9 +25,9 @@ permalink: /books/archive
 - The True Believer <span style="color:gray">by Eric Hoffer</span>
 - Leave Me Alone and I’ll Make You Rich <span style="color:gray">by McCloskey and Carden</span>
 - Autobiography <span style="color:gray">by Benjamin Franklin</span>
-- The Brothers Karamazov <span style="color:gray">by Fyodor Dostoyevsky</span>
+- The Brothers Karamazov <span style="color:gray">by Fyodor Dostoevsky</span>
 - Norwegian Wood <span style="color:gray">by Haruki Murakami</span>
-- The Gambler <span style="color:gray">by Fyodor Dostoyevsky</span>
+- The Gambler <span style="color:gray">by Fyodor Dostoevsky</span>
 - The Cossacks <span style="color:gray">by Leo Tolstoy</span>
 
 2023:
