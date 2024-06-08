@@ -8,13 +8,13 @@ permalink: /books/
 
 My reading taste started out from books recommended on podcasts. I wouldn't recommend many of these early reads, but they got me to the point where I don't fear any book due to its difficulty. I think I reached this stage in late 2023. Nowadays I'm reading mostly history and classic literature.
 
-My current process for finding books is to keep a running [Amazon list](https://www.amazon.com/hz/wishlist/ls/1KCMPBSI2K7NI?ref_=wl_share). The easier it is to buy, the more likely I am to read it. I don't listen to audiobooks or read on digital devices (laptop, phone, kindle).
+My current process for finding books is to keep a running [Amazon list](https://www.amazon.com/hz/wishlist/ls/1KCMPBSI2K7NI?ref_=wl_share) and add anything I find mentioned from a respectable source. The easier it is to buy, the more likely I am to read it. I don't listen to audiobooks or read on digital devices.
 
-If I'm reading non-fiction and realize after 50-100 pages that I don't care for the book, I skim through the rest as fast as possible by reading just chapter conclusions or similar. If it is fiction and I get ~100 pages in, and I have no reason to believe the book will improve, I put the book down and move on. I'm working on getting better at this.
+If I'm reading non-fiction and realize after 50-100 pages that I don't care for the book, I skim through the rest as fast as possible. If it is fiction and I get ~100 pages in, and I have no reason to believe the book will improve, I put the book down and move on. I'm working on getting better at this.
 
 When I first started reading I was obssessed with remembering the core facts from a given book. I took notes, underlined, read all of the footnotes, etc. I think this desire arose from the way reading is taught in school. I'm now under the impression that this is a bad idea unless you are going to write about that book as it disrupts the flow of reading and makes it feel like work. If the book is good, you will remember the important parts regardless of note taking. Now I just read the book and mark great passages with a pen and dog-ear the page. I do this 0-2 times per book.
 
-I'm usually reading between 2-4 books at any given time.
+I'm usually reading 2-4 books at any given time.
 
 <br/><br/>
 
