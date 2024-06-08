@@ -103,6 +103,7 @@ I'm usually reading 2-4 books at any given time.
 
 **Books I wouldn't recommend**. Mid and bad books, or just books that found me at the wrong time.
 - God’s Debris <span style="color:gray">by Scott Adams</span>
+- Facing the Anthropocene <span style="color:gray">by Ian Angus</span>
 - Getting Things Done <span style="color:gray">by David Allen</span>
 - Payoff: The Hidden Logic that Shapes Our Motivations <span style="color:gray">by Dan Ariely</span>
 - The Ascent of Man <span style="color:gray">by Jacob Bronowski</span>
@@ -158,9 +159,6 @@ I'm usually reading 2-4 books at any given time.
 - I Contain Multitudes <span style="color:gray">by Ed Yong</span>
 - On Writing Well <span style="color:gray">by William Zinsser</span>
 
-
-**Books I would recommend against reading**. These are books that actively shaped my worldview for the worse. It's fine to read these eventually, but only do so if you have a strong intellectual base or else it could send your worldview in a wrong direction.
-- Facing the Anthropocene <span style="color:gray">by Ian Angus</span>
 
 <br/><br/>
 
