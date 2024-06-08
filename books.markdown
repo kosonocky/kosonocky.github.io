@@ -6,17 +6,15 @@ permalink: /books/
 
 **Thoughts on reading**
 
-My reading taste started out from books I'd heard recommended on podcasts. I wouldn't recommend many of these early reads, but this semi-random walk noticeably improved my reading ability and allowed me to not fear any book due to its difficulty (except maybe Finnegan's Wake). I think I reached this stage in late 2023. Nowadays I'm reading mostly history and classic literature, somewhat working through [this list](https://a16z.com/what-ive-been-up-to-lately/).
+My reading taste started out from books recommended on podcasts. I wouldn't recommend many of these early reads, but they got me to the point where I don't fear any book due to its difficulty. I think I reached this stage in late 2023. Nowadays I'm reading mostly history and classic literature.
 
-My current process for finding books is to keep a running [Amazon list](https://www.amazon.com/hz/wishlist/ls/1KCMPBSI2K7NI?ref_=wl_share) and whenever I find a credible recommendation I add it to the list. The easier it is to buy, the more likely I am to read it. I've recently been buying from used book stores, but I think this is most beneficial once you have a solid foundation and know how to recognize an interesting book. I don't listen to audiobooks or read on digital devices (laptop, phone, kindle).
+My current process for finding books is to keep a running [Amazon list](https://www.amazon.com/hz/wishlist/ls/1KCMPBSI2K7NI?ref_=wl_share). The easier it is to buy, the more likely I am to read it. I don't listen to audiobooks or read on digital devices (laptop, phone, kindle).
 
-If I'm reading non-fiction and I realize after 50-100 pages that I don't care for the book, I skim through the rest as fast as possible by reading just chapter conclusions or similar. If it is fiction and I get ~100 pages in, and I have no reason to believe the book will improve, I put the book down and move on. I'm working on getting better at this.
+If I'm reading non-fiction and realize after 50-100 pages that I don't care for the book, I skim through the rest as fast as possible by reading just chapter conclusions or similar. If it is fiction and I get ~100 pages in, and I have no reason to believe the book will improve, I put the book down and move on. I'm working on getting better at this.
 
-When I first started reading I was obssessed with remembering the core facts from a given book. This required taking notes, underlining, reading all of the footnotes, etc. I think this desire arose from the way reading is taught in school. I'm now under the impression that this is a bad idea unless you are actively going to write about that book. It disrupts the flow of reading and makes reading feel like work. My current approach is to just read the book and if I come across any gems to mark them with a pen and dog-ear the page. My current rate of doing this is 0-2 times per book. If the book is good, you will remember the important parts regardless of if you take notes.
+When I first started reading I was obssessed with remembering the core facts from a given book. I took notes, underlined, read all of the footnotes, etc. I think this desire arose from the way reading is taught in school. I'm now under the impression that this is a bad idea unless you are going to write about that book as it disrupts the flow of reading and makes it feel like work. If the book is good, you will remember the important parts regardless of note taking. Now I just read the book and mark great passages with a pen and dog-ear the page. I do this 0-2 times per book.
 
-I'm usually reading between 2-4 books at any given time, but no more than that.
-
-It may seem that to read this much I must neglect my primary work. But the time I spend reading is mostly the same time that others spend on social media or watching shows. It's a tradeoff that I find worthwhile.
+I'm usually reading between 2-4 books at any given time.
 
 <br/><br/>
 
