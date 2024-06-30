@@ -29,6 +29,7 @@ permalink: /books/archive
 - Norwegian Wood <span style="color:gray">by Haruki Murakami</span>
 - The Gambler <span style="color:gray">by Fyodor Dostoevsky</span>
 - The Cossacks <span style="color:gray">by Leo Tolstoy</span>
+- Anna Karenina <span style="color:gray">by Leo Tolstoy</span>
 
 2023:
 - A Farewell to Arms <span style="color:gray">by Ernest Hemingway</span>

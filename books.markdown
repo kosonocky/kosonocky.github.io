@@ -34,6 +34,7 @@ I'm usually reading 2-4 books at any given time.
 - **Homage to Catalonia** <span style="color:gray">by George Orwell</span>
 - **Hyperion** <span style="color:gray">by Dan Simmons</span>
 - **The Lord of the Rings** <span style="color:gray">by JRR Tolkien</span>
+- **Anna Karenina** <span style="color:gray">by Leo Tolstoy</span>
 
 **Books I'd recommend situationally**. These are books I found worth reading.
 - Meditations <span style="color:gray">by Marcus Aurelius</span>
