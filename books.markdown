@@ -36,6 +36,8 @@ I'm usually reading 2-4 books at any given time.
 - **The Lord of the Rings** <span style="color:gray">by JRR Tolkien</span>
 - **Anna Karenina** <span style="color:gray">by Leo Tolstoy</span>
 
+<br/>
+
 **Books I'd recommend situationally**. These are books I found worth reading.
 - Meditations <span style="color:gray">by Marcus Aurelius</span>
 - Pride and Prejudice <span style="color:gray">by Jane Austen</span>
@@ -102,6 +104,7 @@ I'm usually reading 2-4 books at any given time.
 - Stoner <span style="color:gray">by John Williams</span>
 - Radical Chic & Mau-Mauing the Flak Catchers <span style="color:gray">by Tom Wolfe</span>
 
+<br/>
 
 **Books I wouldn't recommend**. Mid and bad books, or just books that found me at the wrong time.
 - God’s Debris <span style="color:gray">by Scott Adams</span>

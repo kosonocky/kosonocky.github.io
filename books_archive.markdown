@@ -32,7 +32,8 @@ permalink: /books/archive
 - The Science of Can and Can’t <span style="color:gray">by Chiara Marletto</span>
 - One Hundred Years of Solitude <span style="color:gray">by Gabriel Garcia Marquez</span>
 - Hyperion <span style="color:gray">by Dan Simmons</span>
-- 
+
+<br/>
 
 2023:
 - Pride and Prejudice <span style="color:gray">by Jane Austen</span>
@@ -51,6 +52,8 @@ permalink: /books/archive
 - 12 Rules for Life <span style="color:gray">by Jordan Peterson</span>
 - 1984 <span style="color:gray">by George Orwell</span>
 - A Farewell to Arms <span style="color:gray">by Ernest Hemingway</span>
+
+<br/>
 
 2022:
 - Dirty Hands <span style="color:gray">by Jean-Paul Sartre</span>
@@ -81,6 +84,8 @@ permalink: /books/archive
 - The Prophet <span style="color:gray">by Kahlil Gibran</span>
 - The Way of Zen <span style="color:gray">by Alan Watts</span>
 
+<br/>
+
 2021:
 - Letters from a Stoic <span style="color:gray">by Seneca</span>
 - God’s Debris <span style="color:gray">by Scott Adams</span>
@@ -110,6 +115,8 @@ permalink: /books/archive
 - The Intelligent Investor <span style="color:gray">by Benjamin Graham</span>
 - Harry Potter & the Chamber of Secrets <span style="color:gray">by JK Rowling</span>
 - 21 Lessons for the 21st Century <span style="color:gray">by Yuval Noah Harari</span>
+
+<br/>
 
 2020:
 - Physics of Wall Street <span style="color:gray">by James Owen Weatherall</span>
@@ -151,6 +158,8 @@ permalink: /books/archive
 - Outliers <span style="color:gray">by Malcolm Gladwell</span>
 - Zero to One <span style="color:gray">by Peter Thiel</span>
 
+<br/>
+
 2019:
 - Getting Things Done <span style="color:gray">by David Allen</span>
 - Payoff: The Hidden Logic that Shapes Our Motivations <span style="color:gray">by Dan Ariely</span>
@@ -161,9 +170,13 @@ permalink: /books/archive
 - The Blue Zones Solution <span style="color:gray">by Dan Buettner</span>
 - One Flew Over the Cuckoo’s Nest <span style="color:gray">by Ken Kesey</span>
 
+<br/>
+
 2018:
 - Chaos <span style="color:gray">by James Gleick</span>
 - Blink <span style="color:gray">by Malcolm Gladwell</span>
+
+<br/>
 
 2017
 - Astrophysics for People in a Hurry <span style="color:gray">by Neil Degrasse Tyson</span>
