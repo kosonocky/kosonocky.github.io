@@ -51,6 +51,7 @@ I'm usually reading 2-4 books at any given time.
 - The Great Gatsby <span style="color:gray">by F Scott Fitzgerald</span>
 - Man’s Search for Meaning <span style="color:gray">by Viktor Frankl</span>
 - The Prophet <span style="color:gray">by Kahlil Gibran</span>
+- The Pursuit of Italy <span style="color:gray">by David Gilmore</span>
 - The Intelligent Investor <span style="color:gray">by Benjamin Graham</span>
 - Sapiens <span style="color:gray">by Yuval Noah Harari</span>
 - A Mathematician’s Apology <span style="color:gray">by GH Hardy</span>
@@ -142,6 +143,7 @@ I'm usually reading 2-4 books at any given time.
 - The Three-Body Problem <span style="color:gray">by Cixin Liu</span>
 - Too Soon Old, Too Late Smart <span style="color:gray">by Gordon Livingston</span>
 - The Prince <span style="color:gray">by Niccolò Machiavelli</span>
+- Death in Venice <span style="color:gray">by Thomas Mann</span>
 - The Science of Can and Can’t <span style="color:gray">by Chiara Marletto</span>
 - Bright Lights, Big City <span style="color:gray">by Jay McInerney</span>
 - What I Learned Losing a Million Dollars <span style="color:gray">by Paul and Moynihan</span>
