@@ -106,7 +106,7 @@ I'm usually reading 2-4 books at any given time.
 
 <br/>
 
-**Books I wouldn't recommend**. Mid and bad books, or just books that found me at the wrong time.
+**Books I wouldn't recommend**. Not worth reading, or they just found me at the wrong time.
 - God’s Debris <span style="color:gray">by Scott Adams</span>
 - Facing the Anthropocene <span style="color:gray">by Ian Angus</span>
 - Getting Things Done <span style="color:gray">by David Allen</span>
