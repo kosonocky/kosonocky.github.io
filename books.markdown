@@ -71,6 +71,7 @@ I'm usually reading 2-4 books at any given time.
 - To Kill a Mockingbird <span style="color:gray">by Harper Lee</span>
 - The Way to Love <span style="color:gray">by Anthony De Mello</span>
 - Awareness <span style="color:gray">by Anthony de Mello</span>
+- The Captive Mind <span style="color:gray">by Czeslaw Milosz</span>
 - The Emperor of All Maladies <span style="color:gray">by Siddhartha Mukherjee</span>
 - Norwegian Wood <span style="color:gray">by Haruki Murakami</span>
 - Lolita <span style="color:gray">by Vladimir Nabokov</span>

@@ -8,6 +8,7 @@ permalink: /books/archive
 **Books I've read in reverse chronological order**
 
 2024:
+- The Captive Mind <span style="color:gray">by Czeslaw Milosz</span>
 - The Pursuit of Italy <span style="color:gray">by David Gilmore</span>
 - Death in Venice <span style="color:gray">by Thomas Mann</span>
 - Anna Karenina <span style="color:gray">by Leo Tolstoy</span>
