@@ -169,4 +169,4 @@ I'm usually reading 2-4 books at any given time.
 
 <br/><br/>
 
-[List](/books/archive) of all books I've read in chronological order.
+[List of all books I've read in chronological order](/books/archive)
