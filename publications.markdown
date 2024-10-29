@@ -5,7 +5,7 @@ permalink: /publications/
 ---
 
 
-**Kosonocky, C. W.**, Wilke, C. O., Marcotte, E. M. & Ellington, A. D. (2024) Mining patents with large language models elucidates the chemical function landscape. *Digital Discovery* [https://doi.org/10.1039/D4DD00011K]{doi:10.1039/D4DD00011K}
+**Kosonocky, C. W.**, Wilke, C. O., Marcotte, E. M. & Ellington, A. D. (2024) Mining patents with large language models elucidates the chemical function landscape. *Digital Discovery* [https://doi.org/10.1039/D4DD00011K](doi:10.1039/D4DD00011K)
 
 
 
