@@ -34,7 +34,7 @@ plugins:
 
 header_pages:
   - about.markdown
-  - projects.markdown
+  - publications.markdown
   - books.markdown
 
 # Exclude from processing.
