@@ -5,10 +5,106 @@
 layout: home
 ---
 
-currently modifying the site so ignore if you are reading this
+
+<!-- idea: have a javascript animated loss function converging in the header? :p -->
+<div id="dhead" class="container">
+    <div class="row">
+    <div id="dpic">
+        <img src="assets/me.png" class="ppic" />
+    </div>
+    <div id="ddesc">
+        <h1>Clayton Kosonocky</h1>
+        <h2>Austin, TX</h2>
+        <div id="dico">
+        <a href="https://twitter.com/kosonocky"><img src="assets/ctwitter.svg" class="iico" /></a>
+        <a href="https://github.com/kosonocky"><img src="assets/cgithub.svg" class="iico"/></a>
+        <img src="assets/cemail.svg" style="cursor: pointer;" class="iico" id="iemail" title="click to reveal" />
+        </div>
+        <div id="demail"></div> <!-- will reveal email -->
+    </div>
+    </div>
+</div>
+
+<!-- attempt hiding from spambots :p -->
+<script type="text/javascript">
+    const rot13 = (message) => {
+    const alpha = 'abcdefghijklmnopqrstuvwxyzabcdefghijklmABCDEFGHIJKLMNOPQRSTUVWXYZABCDEFGHIJKLM';
+    return message.replace(/[a-z]/gi, letter => alpha[alpha.indexOf(letter) + 13]);
+    }
+    var e_is_shown = false;
+    document.getElementById('iemail').addEventListener("click", function(){
+    let demail = document.getElementById('demail');
+    let msg = "pynlgba.xbfbabpxl" + "@" + "hgrknf.rqh"
+    demail.innerHTML = rot13(msg);
+    demail.style.opacity = e_is_shown ? 0 : 1;
+    e_is_shown = !e_is_shown;
+    })
+</script>
 
 
-## Publications
+<hr>
+
+
+<div id="history" class="container">
+  <!-- Timeline entries -->
+  <div class="entry row">
+    <div class="timespan">
+      2022 -
+    </div>
+    <div class="ico">
+      <div class="entry-dot"></div>
+      <img src="assets/bioml.jpg">
+    </div>
+    <div class="desc">
+      I founded <a href="https://biomlsociety.org" style="text-decoration: underline;">The BioML Society</a>, a student-led research group, with my colleague Aaron Feller in Spring 2023. As of Oct 2024 we have 18 completed or ongoing projects with various faculty.<br><br>In Fall 2023 I designed and co-taught a <a href="https://biomlsociety.org/seminar" style="text-decoration: underline;">lecture series</a> on machine learning for biochemical applciations. This series went on to become an official course taught by Dr. Claus Wilke in Fall 2024.<br><br>In Summer 2024 I organized a worldwide <a href="https://biomlsociety.org/challenge" style="text-decoration: underline;">protein design competition</a> with Aaron Feller, Daryl Barth, and Phillip Woolley. This competition was covered in <a href="https://www.nature.com/articles/d41586-024-03335-z" style="text-decoration: underline;">Nature</a> and is currently ongoing.
+    </div>
+  </div>
+
+  <div class="entry row">
+    <div class="timespan">
+      2022 -
+    </div>
+    <div class="ico">
+      <div class="entry-dot"></div>
+      <img src="assets/ut.png">
+    </div>
+    <div class="desc">
+      My PhD is focused on AI for small molecules, AI for protein engineering and design, and lab automation. I am co-advised by <a href="https://ellingtonlab.org/" style="text-decoration: underline;">Andrew Ellington</a> and <a href="https://www.marcottelab.org/" style="text-decoration: underline;">Edward Marcotte</a>.
+    </div>
+  </div>
+
+  <div class="entry row">
+    <div class="timespan">
+      2020 - 2022
+    </div>
+    <div class="ico">
+      <div class="entry-dot"></div>
+      <img src="assets/beyondmeat.png">
+    </div>
+    <div class="desc">
+        I was a research associate at Beyond Meat where I worked on various projects in analytical chemistry, wet lab automation, and flavor chemistry.
+    </div>
+  </div>
+
+
+  <div class="entry row">
+    <div class="timespan">
+      2016 - 2020
+    </div>
+    <div class="ico">
+      <div class="entry-dot"></div>
+      <img src="assets/boulder.png">
+    </div>
+    <div class="desc">
+        BSc at the University of Colorado in Chemical & Biological Engineering. Research on Organic Synthesis in Wei Zhang's lab and microfluidic simulations in Robert Davis' lab
+    </div>
+  </div>
+
+
+</div>
+
+<hr>
+# Publications
 
 <div style="border-left: 6px solid lightgray; padding: 10px; margin: 10px 0; font-size: 11pt">
   <a href="https://doi.org/10.1039/D4DD00011K" style="text-decoration: underline;">Mining patents with large language models elucidates the chemical function landscape</a> | <span style="color:black; font-style: italic">Digital Discovery</span> 2024<br>
