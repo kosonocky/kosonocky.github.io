@@ -34,7 +34,6 @@ plugins:
 
 header_pages:
   - about.markdown
-  - publications.markdown
   - books.markdown
 
 minima:
