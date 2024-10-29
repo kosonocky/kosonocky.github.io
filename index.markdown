@@ -9,7 +9,7 @@ layout: home
 currently modifying the site so ignore if you are reading this
 
 
-<div style="border-left: 6px lightgray; padding: 10px; margin: 10px 0;">
-  [Mining patents with large language models elucidates the chemical function landscape](https://doi.org/10.1039/D4DD00011K) | Digital Discovery 2024<br>
+<div style="border-left: 6px solid lightgray; padding: 10px; margin: 10px 0;">
+  <a href="https://doi.org/10.1039/D4DD00011K">Mining patents with large language models elucidates the chemical function landscape</a> | Digital Discovery 2024<br>
   Clayton Kosonocky, Claus Wilke, Edward Mardcotte, Andrew Ellington
 </div>
