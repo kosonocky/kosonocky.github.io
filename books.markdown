@@ -30,6 +30,7 @@ I'm usually reading 2-4 books at any given time.
 - **A Farewell to Arms** <span style="color:gray">by Ernest Hemingway</span>
 - **Siddhartha** <span style="color:gray">by Herman Hesse</span>
 - **The Trial** <span style="color:gray">by Franz Kafka</span>
+- **Love in the Time of Cholera** <span style="color:gray">by Gabriel Garcia Marquez</span>
 - **One Hundred Years of Solitude** <span style="color:gray">by Gabriel Garcia Marquez</span>
 - **Homage to Catalonia** <span style="color:gray">by George Orwell</span>
 - **Hyperion** <span style="color:gray">by Dan Simmons</span>
