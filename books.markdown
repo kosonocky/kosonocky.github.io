@@ -46,6 +46,7 @@ I'm usually reading 2-4 books at any given time.
 - Superintelligence <span style="color:gray">by Nick Bostrom</span>
 - Fahrenheit 451 <span style="color:gray">by Ray Bradbury</span>
 - The Managerial Revolution <span style="color:gray">by James Burnham</span>
+- The Fall <span style="color:gray">by Albert Camus</span>
 - The Stranger <span style="color:gray">by Albert Camus</span>
 - The Gambler <span style="color:gray">by Fyodor Dostoevsky</span>
 - Enchiridion <span style="color:gray">by Epictetus</span>

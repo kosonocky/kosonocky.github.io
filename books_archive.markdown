@@ -8,6 +8,7 @@ permalink: /books/archive
 **Books I've read in reverse chronological order**
 
 2024:
+- The Fall <span style="color:gray">by Albert Camus</span>
 - Love in the Time of Cholera <span style="color:gray">by Gabriel Garcia Marquez</span>
 - The Captive Mind <span style="color:gray">by Czeslaw Milosz</span>
 - The Pursuit of Italy <span style="color:gray">by David Gilmore</span>
