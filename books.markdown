@@ -56,6 +56,7 @@ I'm usually reading 2-4 books at any given time.
 - Man’s Search for Meaning <span style="color:gray">by Viktor Frankl</span>
 - The Prophet <span style="color:gray">by Kahlil Gibran</span>
 - The Pursuit of Italy <span style="color:gray">by David Gilmore</span>
+- The Second Coming of the KKK <span style="color:gray">by Linda Gordon</span>
 - The Intelligent Investor <span style="color:gray">by Benjamin Graham</span>
 - Sapiens <span style="color:gray">by Yuval Noah Harari</span>
 - A Mathematician’s Apology <span style="color:gray">by GH Hardy</span>
