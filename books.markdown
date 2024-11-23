@@ -66,6 +66,7 @@ I'm usually reading 2-4 books at any given time.
 - The True Believer <span style="color:gray">by Eric Hoffer</span>
 - Godel, Escher, Bach <span style="color:gray">by Douglas Hofstadter</span>
 - Brave New World <span style="color:gray">by Arduous Huxley</span>
+- Uzumaki <span style="color:gray">by Junji Ito</span>
 - Leonardo DaVinci <span style="color:gray">by Walter Isaacson</span>
 - Letter from Birmingham Jail <span style="color:gray">by Martin Luther King Jr</span>
 - The Castle <span style="color:gray">by Franz Kafka</span>
