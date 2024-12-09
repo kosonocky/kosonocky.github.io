@@ -25,6 +25,7 @@ I'm usually reading 2-4 books at any given time.
 - **The Brothers Karamazov** <span style="color:gray">by Fyodor Dostoevsky</span>
 - **The Diary of Young Girl** <span style="color:gray">by Anne Frank</span>
 - **Autobiography** <span style="color:gray">by Benjamin Franklin</span>
+- **The Ancient City** <span style="color:gray">by Numa Denis Fustel de Coulanges</span>
 - **Lying** <span style="color:gray">by Sam Harris</span>
 - **Catch-22** <span style="color:gray">by Joseph Heller</span>
 - **A Farewell to Arms** <span style="color:gray">by Ernest Hemingway</span>

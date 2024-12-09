@@ -8,6 +8,7 @@ permalink: /books/archive
 **Books I've read in reverse chronological order**
 
 2024:
+- The Ancient City <span style="color:gray">by Numa Denis Fustel de Coulanges</span>
 - Uzumaki <span style="color:gray">by Junji Ito</span>
 - The Second Coming of the KKK <span style="color:gray">by Linda Gordon</span>
 - The Fall <span style="color:gray">by Albert Camus</span>
