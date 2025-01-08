@@ -48,9 +48,12 @@ I'm usually reading 2-4 books at any given time.
 - Fahrenheit 451 <span style="color:gray">by Ray Bradbury</span>
 - The Managerial Revolution <span style="color:gray">by James Burnham</span>
 - The Fall <span style="color:gray">by Albert Camus</span>
+- The Myth of Sisyphus <span style="color:gray">by Albert Camus</span>
 - The Stranger <span style="color:gray">by Albert Camus</span>
+- Exhalation <span style="color:gray">by Ted Chiang</span>
 - The Gambler <span style="color:gray">by Fyodor Dostoevsky</span>
 - Enchiridion <span style="color:gray">by Epictetus</span>
+- As I Lay Dying <span style="color:gray">by William Faulkner</span>
 - Surely You’re Joking Mr. Feynman <span style="color:gray">by Richard Feynman</span>
 - What Do You Care What Other People Think? <span style="color:gray">by Richard Feynman</span>
 - The Great Gatsby <span style="color:gray">by F Scott Fitzgerald</span>
@@ -74,6 +77,7 @@ I'm usually reading 2-4 books at any given time.
 - One Flew Over the Cuckoo’s Nest <span style="color:gray">by Ken Kesey</span>
 - Think on These Things <span style="color:gray">by Krishnamurti</span>
 - To Kill a Mockingbird <span style="color:gray">by Harper Lee</span>
+- Plagues and Peoples <span style="color:gray">by William H. McNeil</span>
 - The Way to Love <span style="color:gray">by Anthony De Mello</span>
 - Awareness <span style="color:gray">by Anthony de Mello</span>
 - The Captive Mind <span style="color:gray">by Czeslaw Milosz</span>
@@ -107,6 +111,7 @@ I'm usually reading 2-4 books at any given time.
 - The Way of Zen <span style="color:gray">by Alan Watts</span>
 - The Book <span style="color:gray">by Alan Watts</span>
 - Physics of Wall Street <span style="color:gray">by James Owen Weatherall</span>
+- The Picture of Dorian Gray <span style="color:gray">by Oscar Wilde</span>
 - Stoner <span style="color:gray">by John Williams</span>
 - Radical Chic & Mau-Mauing the Flak Catchers <span style="color:gray">by Tom Wolfe</span>
 

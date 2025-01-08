@@ -7,7 +7,16 @@ permalink: /books/archive
 
 **Books I've read in reverse chronological order**
 
+2025:
+- The Picture of Dorian Gray <span style="color:gray">by Oscar Wilde</span>
+
+# NOTE Add to other books tab!
+
 2024:
+- The Myth of Sisyphus <span style="color:gray">by Albert Camus</span>
+- Exhalation <span style="color:gray">by Ted Chiang</span>
+- As I Lay Dying <span style="color:gray">by William Faulkner</span>
+- Plagues and Peoples <span style="color:gray">by William H. McNeil</span>
 - The Ancient City <span style="color:gray">by Numa Denis Fustel de Coulanges</span>
 - Uzumaki <span style="color:gray">by Junji Ito</span>
 - The Second Coming of the KKK <span style="color:gray">by Linda Gordon</span>
