@@ -52,6 +52,7 @@ I'm usually reading 2-4 books at any given time.
 - The Stranger <span style="color:gray">by Albert Camus</span>
 - Exhalation <span style="color:gray">by Ted Chiang</span>
 - The Gambler <span style="color:gray">by Fyodor Dostoevsky</span>
+- A Study in Scarlet <span style="color:gray">by Sir Arthur Conan Doyle</span>
 - Enchiridion <span style="color:gray">by Epictetus</span>
 - As I Lay Dying <span style="color:gray">by William Faulkner</span>
 - Surely You’re Joking Mr. Feynman <span style="color:gray">by Richard Feynman</span>
@@ -123,6 +124,7 @@ I'm usually reading 2-4 books at any given time.
 - Getting Things Done <span style="color:gray">by David Allen</span>
 - Payoff: The Hidden Logic that Shapes Our Motivations <span style="color:gray">by Dan Ariely</span>
 - The Ascent of Man <span style="color:gray">by Jacob Bronowski</span>
+- Bobos in Paradise (skimmed) <span style="color:gray">by David Brooks</span>
 - The Blue Zones Solution <span style="color:gray">by Dan Buettner</span>
 - Leave Me Alone and I’ll Make You Rich <span style="color:gray">by McCloskey and Carden</span>
 - How to Win Friends & Influence People <span style="color:gray">by Dale Carnegie</span>

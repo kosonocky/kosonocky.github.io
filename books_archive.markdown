@@ -9,6 +9,9 @@ permalink: /books/archive
 
 2025:
 - The Picture of Dorian Gray <span style="color:gray">by Oscar Wilde</span>
+- A Study in Scarlet <span style="color:gray">by Sir Arthur Conan Doyle</span>
+- Bobos in Paradise (skimmed) <span style="color:gray">by David Brooks</span>
+
 
 # NOTE Add to other books tab!
 
