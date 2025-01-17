@@ -5,6 +5,7 @@ permalink: /books/
 ---
 
 **Tenants**
+
 First read what you want. Then read broadly. Then read what you want.
 
 Purchase not what is displayed at the airport.
