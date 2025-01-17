@@ -4,21 +4,22 @@ title: books
 permalink: /books/
 ---
 
-**Thoughts on reading**
+**Tenants for reading**
+First read what you want. Then read broadly. Then read what you want.
 
-My reading taste started out from books recommended on podcasts. I wouldn't recommend many of these early reads but they got me to the point where I don't fear a book due to its difficulty. I think I reached this stage in 2023. Right now I am reading mostly history and classic literature.
+Purchase not what is displayed at the airport.
 
-My current process for finding books is to keep a running [Amazon list](https://www.amazon.com/hz/wishlist/ls/1KCMPBSI2K7NI?ref_=wl_share) and add anything I find mentioned from a respectable source. The easier it is to buy, the more likely I am to read it. I don't listen to audiobooks or read on digital devices.
+Trust that you will absorb what is most important.
 
-If I'm reading non-fiction and realize after 50-100 pages that I don't care for the book, I skim through the rest as fast as possible. If it is fiction and I get ~100 pages in, and I have no reason to believe the book will improve, I put the book down and move on. I'm working on getting better at this.
+Finish not for the sake of the book.
 
-When I first started reading I obssessed over remembering the details. I think this desire arose from the way reading is taught in school. I'm now under the impression that this is a bad idea unless you are going to write about that book as it disrupts your flow and makes it feel like work. If the book is good, you will remember the important parts. Now I just read and mark great passages with a pen and dog-ear the page. I do this 0-2 times per book.
+Make books as available as possible.
 
-I'm usually reading 2-4 books at any given time.
+<!-- "All that can be done is for each one of us to invent our own ideal library of our classics; and I would say that one half of it should consist of books we have read and that have meant something for us, and the other half of books which we intend to read and which we suppose might mean something to us. We should also leave a section of empty spaces for surprises and chance discoveries." -->
 
 <br/><br/>
 
-**Books I'd highly recommend**. Everybody should read these books.
+**Certified Classics**
 - **The Plague** <span style="color:gray">by Albert Camus</span>
 - **The Fabric of Reality** <span style="color:gray">by David Deutsch</span>
 - **The Beginning of Infinity** <span style="color:gray">by David Deutsch</span>
@@ -40,8 +41,9 @@ I'm usually reading 2-4 books at any given time.
 
 <br/>
 
-**Books I'd recommend situationally**. These are books I found worth reading.
+**Solid, for one reason or another**
 - Meditations <span style="color:gray">by Marcus Aurelius</span>
+- Persuasion <span style="color:gray">by Jane Austen</span>
 - Pride and Prejudice <span style="color:gray">by Jane Austen</span>
 - The Fire Next Time <span style="color:gray">by James Baldwin</span>
 - Superintelligence <span style="color:gray">by Nick Bostrom</span>
@@ -118,7 +120,7 @@ I'm usually reading 2-4 books at any given time.
 
 <br/>
 
-**Books I wouldn't recommend**. Not worth reading, or they just found me at the wrong time.
+**Not for me**
 - God’s Debris <span style="color:gray">by Scott Adams</span>
 - Facing the Anthropocene <span style="color:gray">by Ian Angus</span>
 - Getting Things Done <span style="color:gray">by David Allen</span>
