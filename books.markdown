@@ -4,7 +4,7 @@ title: books
 permalink: /books/
 ---
 
-**Tenants for reading**
+**Tenants**
 First read what you want. Then read broadly. Then read what you want.
 
 Purchase not what is displayed at the airport.
@@ -14,8 +14,6 @@ Trust that you will absorb what is most important.
 Finish not for the sake of the book.
 
 Make books as available as possible.
-
-<!-- "All that can be done is for each one of us to invent our own ideal library of our classics; and I would say that one half of it should consist of books we have read and that have meant something for us, and the other half of books which we intend to read and which we suppose might mean something to us. We should also leave a section of empty spaces for surprises and chance discoveries." -->
 
 <br/><br/>
 
@@ -41,7 +39,7 @@ Make books as available as possible.
 
 <br/>
 
-**Solid, for one reason or another**
+**Worthwhile, for one reason or another**
 - Meditations <span style="color:gray">by Marcus Aurelius</span>
 - Persuasion <span style="color:gray">by Jane Austen</span>
 - Pride and Prejudice <span style="color:gray">by Jane Austen</span>
@@ -139,7 +137,9 @@ Make books as available as possible.
 - The Meaning of It All <span style="color:gray">by Richard Feynman</span>
 - Six Easy Pieces <span style="color:gray">by Richard Feynman</span>
 - Six Not So Easy Pieces <span style="color:gray">by Richard Feynman</span>
+- Barbarian Days (DNF)<span style="color:gray">by William Finnegan</span>
 - Moonwalking with Einstein <span style="color:gray">by Joshua Foer</span>
+- The Crystal Frontier (DNF) <span style="color:gray">by Carlos Fuentes</span>
 - Bomber Mafia <span style="color:gray">by Malcolm Gladwell</span>
 - Outliers <span style="color:gray">by Malcolm Gladwell</span>
 - Talking to Strangers <span style="color:gray">by Malcolm Gladwell</span>
@@ -158,6 +158,7 @@ Make books as available as possible.
 - Thinking, Fast & Slow <span style="color:gray">by Daniel Kahneman</span>
 - The Body Keeps the Score <span style="color:gray">by Bessel van der Kolk</span>
 - The Vital Question <span style="color:gray">by Nick Lane</span>
+- His Master's Voice (DNF) <span style="color:gray">by Stanislaw Lem</span>
 - The Three-Body Problem <span style="color:gray">by Cixin Liu</span>
 - Too Soon Old, Too Late Smart <span style="color:gray">by Gordon Livingston</span>
 - The Prince <span style="color:gray">by Niccolò Machiavelli</span>
@@ -169,6 +170,7 @@ Make books as available as possible.
 - When <span style="color:gray">by Daniel Pink</span>
 - Love Yourself Like Your Life Depends On It <span style="color:gray">by Kamal Ravikant</span>
 - How Innovation Works <span style="color:gray">by Matt Ridley</span>
+- The Name of the Wind (DNF) <span style="color:gray">by Patrick Rothfuss</span>
 - The Order of Time <span style="color:gray">by Carlo Rovelli</span>
 - Seven Brief Lessons on Physics <span style="color:gray">by Carlo Rovelli</span>
 - How to Invest <span style="color:gray">by David Rubenstein</span>
@@ -183,4 +185,4 @@ Make books as available as possible.
 
 <br/><br/>
 
-[List of all books I've read in chronological order](/books/archive)
+[Chronological order](/books/archive)
