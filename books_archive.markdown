@@ -8,6 +8,9 @@ permalink: /books/archive
 **Books I've read in reverse chronological order**
 
 2025:
+- Crime and Punishment <span style="color:gray">by Fyodor Dostoevsky</span>
+- Their Eyes Were Watching God <span style="color:gray">by Zora Neale Hurston</span>
+- Wind, Sand, and Stars <span style="color:gray">by Antoine De Saint-Exupéry</span>
 - Persuasion <span style="color:gray">by Jane Austen</span>
 - Bobos in Paradise (skimmed) <span style="color:gray">by David Brooks</span>
 - A Study in Scarlet <span style="color:gray">by Sir Arthur Conan Doyle</span>

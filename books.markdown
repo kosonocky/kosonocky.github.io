@@ -23,6 +23,7 @@ Make books as available as possible.
 - **The Fabric of Reality** <span style="color:gray">by David Deutsch</span>
 - **The Beginning of Infinity** <span style="color:gray">by David Deutsch</span>
 - **The Brothers Karamazov** <span style="color:gray">by Fyodor Dostoevsky</span>
+- **Crime and Punishment** <span style="color:gray">by Fyodor Dostoevsky</span>
 - **The Diary of Young Girl** <span style="color:gray">by Anne Frank</span>
 - **Autobiography** <span style="color:gray">by Benjamin Franklin</span>
 - **The Ancient City** <span style="color:gray">by Numa Denis Fustel de Coulanges</span>
@@ -34,6 +35,7 @@ Make books as available as possible.
 - **Love in the Time of Cholera** <span style="color:gray">by Gabriel Garcia Marquez</span>
 - **One Hundred Years of Solitude** <span style="color:gray">by Gabriel Garcia Marquez</span>
 - **Homage to Catalonia** <span style="color:gray">by George Orwell</span>
+- **Wind, Sand, and Stars** <span style="color:gray">by Antoine De Saint-Exupéry</span>
 - **Hyperion** <span style="color:gray">by Dan Simmons</span>
 - **The Lord of the Rings** <span style="color:gray">by JRR Tolkien</span>
 - **Anna Karenina** <span style="color:gray">by Leo Tolstoy</span>
@@ -71,6 +73,7 @@ Make books as available as possible.
 - Dune <span style="color:gray">by Frank Herbert</span>
 - The True Believer <span style="color:gray">by Eric Hoffer</span>
 - Godel, Escher, Bach <span style="color:gray">by Douglas Hofstadter</span>
+- Their Eyes Were Watching God <span style="color:gray">by Zora Neale Hurston</span>
 - Brave New World <span style="color:gray">by Arduous Huxley</span>
 - Uzumaki <span style="color:gray">by Junji Ito</span>
 - Leonardo DaVinci <span style="color:gray">by Walter Isaacson</span>
