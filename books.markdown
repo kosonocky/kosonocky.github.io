@@ -94,6 +94,7 @@ Make books as available as possible.
 - The Bell Jar <span style="color:gray">by Sylvia Plath</span>
 - The Omnivore’s Dilemma <span style="color:gray">by Michael Pollan</span>
 - How to Change Your Mind <span style="color:gray">by Michael Pollan</span>
+- A New World Begins <span style="color:gray">by Jeremy Popkin</span>
 - Atlas Shrugged <span style="color:gray">by Ayn Rand</span>
 - Harry Potter <span style="color:gray">by JK Rowling</span>
 - Catcher in the Rye <span style="color:gray">by JD Salinger</span>

@@ -8,6 +8,7 @@ permalink: /books/archive
 **Books I've read in reverse chronological order**
 
 2025:
+- A New World Begins <span style="color:gray">by Jeremy Popkin</span>
 - Crime and Punishment <span style="color:gray">by Fyodor Dostoevsky</span>
 - Their Eyes Were Watching God <span style="color:gray">by Zora Neale Hurston</span>
 - Wind, Sand, and Stars <span style="color:gray">by Antoine De Saint-Exupéry</span>
