@@ -19,7 +19,7 @@ Make books as available as possible.
 <br/><br/>
 
 **Certified Classics**
-- The Plague** <span style="color:gray">by Albert Camus</span>
+- The Plague <span style="color:gray">by Albert Camus</span>
 - The Fabric of Reality <span style="color:gray">by David Deutsch</span>
 - The Beginning of Infinity <span style="color:gray">by David Deutsch</span>
 - The Brothers Karamazov <span style="color:gray">by Fyodor Dostoevsky</span>
@@ -32,7 +32,6 @@ Make books as available as possible.
 - A Farewell to Arms <span style="color:gray">by Ernest Hemingway</span>
 - Siddhartha <span style="color:gray">by Herman Hesse</span>
 - The Trial <span style="color:gray">by Franz Kafka</span>
-- Love in the Time of Cholera <span style="color:gray">by Gabriel Garcia Marquez</span>
 - One Hundred Years of Solitude <span style="color:gray">by Gabriel Garcia Marquez</span>
 - Homage to Catalonia <span style="color:gray">by George Orwell</span>
 - Wind, Sand, and Stars <span style="color:gray">by Antoine De Saint-Exupéry</span>
@@ -82,6 +81,7 @@ Make books as available as possible.
 - One Flew Over the Cuckoo’s Nest <span style="color:gray">by Ken Kesey</span>
 - Think on These Things <span style="color:gray">by Krishnamurti</span>
 - To Kill a Mockingbird <span style="color:gray">by Harper Lee</span>
+- Love in the Time of Cholera <span style="color:gray">by Gabriel Garcia Marquez</span>
 - Plagues and Peoples <span style="color:gray">by William H. McNeil</span>
 - The Way to Love <span style="color:gray">by Anthony De Mello</span>
 - Awareness <span style="color:gray">by Anthony de Mello</span>
