@@ -8,6 +8,8 @@ permalink: /books/archive
 **Books I've read in reverse chronological order**
 
 2025:
+- Lenin <span style="color:gray">by Victor Sebestyen</span>
+- The Code of the Woosters <span style="color:gray">by P.G. Wodehouse</span>
 - A New World Begins <span style="color:gray">by Jeremy Popkin</span>
 - Crime and Punishment <span style="color:gray">by Fyodor Dostoevsky</span>
 - Their Eyes Were Watching God <span style="color:gray">by Zora Neale Hurston</span>

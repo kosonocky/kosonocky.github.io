@@ -101,6 +101,7 @@ Make books as available as possible.
 - No Exit <span style="color:gray">by Jean-Paul Sartre</span>
 - Dirty Hands <span style="color:gray">by Jean-Paul Sartre</span>
 - What Makes Sammy Run <span style="color:gray">by Budd Schulberg</span>
+- Lenin <span style="color:gray">by Victor Sebestyen</span>
 - Letters from a Stoic <span style="color:gray">by Seneca</span>
 - Snow Crash <span style="color:gray">by Neal Stephenson</span>
 - Fooled by Randomness <span style="color:gray">by Nassim Taleb</span>
@@ -119,6 +120,7 @@ Make books as available as possible.
 - Physics of Wall Street <span style="color:gray">by James Owen Weatherall</span>
 - The Picture of Dorian Gray <span style="color:gray">by Oscar Wilde</span>
 - Stoner <span style="color:gray">by John Williams</span>
+- The Code of the Woosters <span style="color:gray">by P.G. Wodehouse</span>
 - Radical Chic & Mau-Mauing the Flak Catchers <span style="color:gray">by Tom Wolfe</span>
 
 <br/>
