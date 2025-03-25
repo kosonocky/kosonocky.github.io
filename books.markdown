@@ -182,6 +182,7 @@ Make books as available as possible.
 - Seven Brief Lessons on Physics <span style="color:gray">by Carlo Rovelli</span>
 - How to Invest <span style="color:gray">by David Rubenstein</span>
 - Behave <span style="color:gray">by Robert Sapolsky</span>
+- What is Life? <span style="color:gray">by Erwin Schrödinger</span>
 - Nudge <span style="color:gray">by Cass Sunstein & Richard Thaler</span>
 - Astrophysics for People in a Hurry <span style="color:gray">by Neil Degrasse Tyson</span>
 - Art of War <span style="color:gray">by Sun Tzu</span>

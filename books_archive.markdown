@@ -11,6 +11,7 @@ permalink: /books/archive
 - Lenin <span style="color:gray">by Victor Sebestyen</span>
 - The Code of the Woosters <span style="color:gray">by P.G. Wodehouse</span>
 - A New World Begins <span style="color:gray">by Jeremy Popkin</span>
+- What is Life? <span style="color:gray">by Erwin Schrödinger</span>
 - Crime and Punishment <span style="color:gray">by Fyodor Dostoevsky</span>
 - Their Eyes Were Watching God <span style="color:gray">by Zora Neale Hurston</span>
 - Wind, Sand, and Stars <span style="color:gray">by Antoine De Saint-Exupéry</span>
