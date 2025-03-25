@@ -19,26 +19,26 @@ Make books as available as possible.
 <br/><br/>
 
 **Certified Classics**
-- **The Plague** <span style="color:gray">by Albert Camus</span>
-- **The Fabric of Reality** <span style="color:gray">by David Deutsch</span>
-- **The Beginning of Infinity** <span style="color:gray">by David Deutsch</span>
-- **The Brothers Karamazov** <span style="color:gray">by Fyodor Dostoevsky</span>
-- **Crime and Punishment** <span style="color:gray">by Fyodor Dostoevsky</span>
-- **The Diary of Young Girl** <span style="color:gray">by Anne Frank</span>
-- **Autobiography** <span style="color:gray">by Benjamin Franklin</span>
-- **The Ancient City** <span style="color:gray">by Numa Denis Fustel de Coulanges</span>
-- **Lying** <span style="color:gray">by Sam Harris</span>
-- **Catch-22** <span style="color:gray">by Joseph Heller</span>
-- **A Farewell to Arms** <span style="color:gray">by Ernest Hemingway</span>
-- **Siddhartha** <span style="color:gray">by Herman Hesse</span>
-- **The Trial** <span style="color:gray">by Franz Kafka</span>
-- **Love in the Time of Cholera** <span style="color:gray">by Gabriel Garcia Marquez</span>
-- **One Hundred Years of Solitude** <span style="color:gray">by Gabriel Garcia Marquez</span>
-- **Homage to Catalonia** <span style="color:gray">by George Orwell</span>
-- **Wind, Sand, and Stars** <span style="color:gray">by Antoine De Saint-Exupéry</span>
-- **Hyperion** <span style="color:gray">by Dan Simmons</span>
-- **The Lord of the Rings** <span style="color:gray">by JRR Tolkien</span>
-- **Anna Karenina** <span style="color:gray">by Leo Tolstoy</span>
+- The Plague** <span style="color:gray">by Albert Camus</span>
+- The Fabric of Reality <span style="color:gray">by David Deutsch</span>
+- The Beginning of Infinity <span style="color:gray">by David Deutsch</span>
+- The Brothers Karamazov <span style="color:gray">by Fyodor Dostoevsky</span>
+- Crime and Punishment <span style="color:gray">by Fyodor Dostoevsky</span>
+- The Diary of Young Girl <span style="color:gray">by Anne Frank</span>
+- Autobiography <span style="color:gray">by Benjamin Franklin</span>
+- The Ancient City <span style="color:gray">by Numa Denis Fustel de Coulanges</span>
+- Lying <span style="color:gray">by Sam Harris</span>
+- Catch-22 <span style="color:gray">by Joseph Heller</span>
+- A Farewell to Arms <span style="color:gray">by Ernest Hemingway</span>
+- Siddhartha <span style="color:gray">by Herman Hesse</span>
+- The Trial <span style="color:gray">by Franz Kafka</span>
+- Love in the Time of Cholera <span style="color:gray">by Gabriel Garcia Marquez</span>
+- One Hundred Years of Solitude <span style="color:gray">by Gabriel Garcia Marquez</span>
+- Homage to Catalonia <span style="color:gray">by George Orwell</span>
+- Wind, Sand, and Stars <span style="color:gray">by Antoine De Saint-Exupéry</span>
+- Hyperion <span style="color:gray">by Dan Simmons</span>
+- The Lord of the Rings <span style="color:gray">by JRR Tolkien</span>
+- Anna Karenina <span style="color:gray">by Leo Tolstoy</span>
 
 <br/>
 
