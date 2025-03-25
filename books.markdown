@@ -4,17 +4,17 @@ title: books
 permalink: /books/
 ---
 
-**Tenants**
+**Advice**
 
-First read what you want. Then read broadly. Then read what you want.
+Read what you like. Then read broadly. Then read what you like.
 
-Purchase not what is displayed at the airport.
+Do not read what is displayed at the airport.
 
-Trust that you will absorb what is most important.
+Trust that you will retain what is most important.
 
-Finish not for the sake of the book.
+Do not finish the book for the sake of the book.
 
-Make books as available as possible.
+Make books easy to purchase and easy to read.
 
 <br/><br/>
 
