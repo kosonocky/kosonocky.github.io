@@ -14,7 +14,7 @@ Trust that you will retain what is most important.
 
 Do not finish the book for the sake of the book.
 
-Make books easy to purchase and easy to read.
+Make paper books as easy to access as possible.
 
 <br/><br/>
 
