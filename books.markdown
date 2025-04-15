@@ -191,6 +191,111 @@ Make paper books as easy to access as possible.
 - On Writing Well <span style="color:gray">by William Zinsser</span>
 
 
+**Unread, on my bookshelf**
+
+**English Literature**
+- Sense and Sensibility <span style="color:gray">by Jane Austen</span>
+- Jane Eyre <span style="color:gray">by Charlotte Bronte</span>
+- Wuthering Heights <span style="color:gray">by Emily Bronte</span>
+- Great Expectations <span style="color:gray">by Charles Dickens</span>
+- A Tale of Two Cities <span style="color:gray">by Charles Dickens</span>
+- A Time of Gifts <span style="color:gray">by Patrick Leigh Fermor</span>
+- A Room With a View <span style="color:gray">by E. M. Forster</span>
+- Tess of the D'Urbervilles <span style="color:gray">by Thomas Hardy</span>
+
+**French Literature**
+- Swann's Way <span style="color:gray">by Marcel Proust</span>
+- Candide <span style="color:gray">by Voltaire</span>
+- The idiot <span style="color:gray">by Fyodor Dostoevsky</span>
+
+**Russian Literature**
+- The Master and Margarita <span style="color:gray">by Mikhail Bulgakov</span>
+- Doctor Zhivago <span style="color:gray">by Boris Pasternak</span>
+- One Day in the Life of Ivan Denisovich <span style="color:gray">by Aleksandr Solzhenitsyn</span>
+- Cancer Ward <span style="color:gray">by Aleksandr Solzhenitsyn</span>
+- War and Peace <span style="color:gray">by Leo Tolstoy</span>
+
+**American Literature**
+- Little Women <span style="color:gray">by Louisa May Alcott</span>
+- Invisible Man <span style="color:gray">by Ralph Ellison</span>
+- Absalom, Absalom <span style="color:gray">by William Faulkner</span>
+- The Sound and the Fury <span style="color:gray">by William Faulkner</span>
+- Tender is the Night <span style="color:gray">by F. Scott Fitzgerald</span>
+- The Golden Bowl <span style="color:gray">by Henry James</span>
+- Sometimes a Great Notion <span style="color:gray">by Ken Kesey</span>
+- Babbitt <span style="color:gray">by Sinclair Lewis</span>
+- Blood Meridian <span style="color:gray">by Cormac McCarthy</span>
+- Beloved <span style="color:gray">by Tony Morrison</span>
+- The Jungle <span style="color:gray">by Upton Sinclair</span>
+- East of Eden <span style="color:gray">by John Steinbeck</span>
+- The Grapes of Wrath <span style="color:gray">by John Steinbeck</span>
+- Moby Dick <span style="color:gray">by Herman Melville</span>
+- The Bonfire of the Vanities <span style="color:gray">by Tom Wolfe</span>
+
+**Latin American Literature**
+- Ficciones <span style="color:gray">by Jorge Luis Borges</span>
+- The Death of Artemio Cruz <span style="color:gray">by Carlos Fuentes</span>
+
+**Sci-Fi**
+- Foundatino <span style="color:gray">by Isaac Asimov</span>
+- Stories of Your Life and Others <span style="color:gray">by Ted Chiang</span>
+- Starship Troopers <span style="color:gray">by Robert Heinlein</span>
+- The Martian <span style="color:gray">by Andy Weir</span>
+- The Time Machine <span style="color:gray">by H. G. Wells</span>
+- The Invisible Man <span style="color:gray">by H. G. Wells</span>
+
+**Non-Fiction**
+- Hateship, Friendship, Courtship, Loveship, Marriage <span style="color:gray">by Alice Murno</span>
+- The Soul of a New Machine <span style="color:gray">by Tracy Kidder</span>
+- Medieval Technology and Social Change <span style="color:gray">by Lynn White</span>
+- The Lever of Riches <span style="color:gray">by Joel Mokyr</span>
+- Profiles of the Future <span style="color:gray">by Arthur C. Clarke</span>
+- Skunk Works <span style="color:gray">by Ben R. Rich</span>
+- The Death and Life of Great American Cities <span style="color:gray">by Jane Jacobs</span>
+- Genghis Khan and the Making of the Modern World <span style="color:gray">by Jack Weatherford</span>
+- Life: The Movie <span style="color:gray">by Neal Gabler</span>
+- The History of Sexuality Vol 1 <span style="color:gray">by Michel Foucault</span>
+- Essays <span style="color:gray">by Ralph Waldo Emerson</span>
+- The Story of Philosophy <span style="color:gray">by Will Durant</span>
+- Beyond good and Evil <span style="color:gray">by Fredrich Nietzche</span>
+- Thus Spoke Zarathustra <span style="color:gray">by Fredrich Nietzche</span>
+- The Open Society and Its Enemies <span style="color:gray">by Karl Popper</span>
+- The End of History and the Last Man <span style="color:gray">by Francis Fukuyama</span>
+- Democracy in America <span style="color:gray">by Alexis de Tocqueville</span>
+- The Season of the Witch <span style="color:gray">by David Talbot</span>
+- The House of Medicie: Its Rise and Fall <span style="color:gray">by Christopher Hibbert</span>
+- Albion's Seed <span style="color:gray">by David Hackett Fischer</span>
+- History of the English Speaking Peoples <span style="color:gray">by Winston Churchill</span>
+- Witness <span style="color:gray">by Whitaker Chambers</span>
+- The Ambassador <span style="color:gray">by Susan Ronald</span>
+- Spain in Our Hearts <span style="color:gray">by Adam Hochschild</span>
+- The Spanish Civil War <span style="color:gray">by Hugh Thomas</span>
+- The Gulag Archipelago: Abridged <span style="color:gray">by Aleksandr Solzhenitsyn</span>
+- The German Generals Talk <span style="color:gray">by B. H. Liddell Hart</span>
+- The Rise and Fall of the Third Reich <span style="color:gray">by William Shirer</span>
+- Born Red <span style="color:gray">by Yuan Gao</span>
+- The Power Broker <span style="color:gray">by Robert Caro</span>
+- Parallel Lives <span style="color:gray">by Plutarch</span>
+
+<!-- **Textbook**
+- A History of American Law <span style="color:gray">by Lawrence Friedman</span>
+- Probability Theory <span style="color:gray">by E. T. Jaynes</span>
+- A Concise Introduction to Pure Mathematics <span style="color:gray">by Martin Liebeck</span>
+- Analysis I <span style="color:gray">by Terence Tao</span>
+- Analysis II <span style="color:gray">by Terence Tao</span>
+- Complex Analysis <span style="color:gray">by Stein and Shakarchi</span>
+- Convex Optimization <span style="color:gray">by Stephen Boyd</span>
+- A Book of Abstract Algebra <span style="color:gray">by Charles Pinter</span>
+- Introduction to Metric and Topological Spaces <span style="color:gray">by Wilson Sutherland</span>
+- Linear Algebra Done Right <span style="color:gray">by Sheldon Axler</span>
+- Cybernetics <span style="color:gray">by Norbert Wiener</span>
+- A Private ARPA User Manual <span style="color:gray">by Benjamin Reinhardt</span>
+- Inflection Point <span style="color:gray">by Ochmanek et al.</span>
+- _______ <span style="color:gray">by _________</span>
+- _______ <span style="color:gray">by _________</span> -->
+
+
+
 <br/><br/>
 
 [Chronological order](/books/archive)
