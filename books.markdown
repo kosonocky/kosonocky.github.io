@@ -4,20 +4,6 @@ title: books
 permalink: /books/
 ---
 
-**Advice**
-
-Read what you like. Then read broadly. Then read what you like.
-
-Do not read what is displayed at the airport.
-
-Trust that you will retain what is most important.
-
-Do not finish the book for the sake of the book.
-
-Make paper books as easy to access as possible.
-
-<br/><br/>
-
 **Certified Classics**
 - **The Plague** <span style="color:gray">by Albert Camus</span>
 - **The Fabric of Reality** <span style="color:gray">by David Deutsch</span>
@@ -311,6 +297,19 @@ Make paper books as easy to access as possible.
 - Optics <span style="color:gray">by Eugene Hecht</span>
 <!-- - _______ <span style="color:gray">by _________</span> -->
 
+<br/><br/>
+
+**Advice for reading**
+
+Read what you like. Then read broadly. Then read what you like.
+
+Do not read what is displayed at the airport.
+
+Trust that you will retain what is most important.
+
+Do not finish the book for the sake of the book.
+
+Make paper books as easy to access as possible.
 
 
 <br/><br/>
