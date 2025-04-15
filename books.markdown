@@ -43,7 +43,7 @@ Make paper books as easy to access as possible.
 
 **Worthwhile, for one reason or another**
 - Meditations <span style="color:gray">by Marcus Aurelius</span>
-<!-- - Physical Chemistry <span style="color:gray">by Peter Atkins</span> -->
+- Physical Chemistry <span style="color:gray">by Peter Atkins</span>
 - Persuasion <span style="color:gray">by Jane Austen</span>
 - Pride and Prejudice <span style="color:gray">by Jane Austen</span>
 - The Fire Next Time <span style="color:gray">by James Baldwin</span>
@@ -106,7 +106,7 @@ Make paper books as easy to access as possible.
 - Lenin <span style="color:gray">by Victor Sebestyen</span>
 - Letters from a Stoic <span style="color:gray">by Seneca</span>
 - Snow Crash <span style="color:gray">by Neal Stephenson</span>
-<!-- - Essential Calculus <span style="color:gray">by James Stewart</span> -->
+- Essential Calculus <span style="color:gray">by James Stewart</span>
 - Fooled by Randomness <span style="color:gray">by Nassim Taleb</span>
 - Black Swan <span style="color:gray">by Nassim Taleb</span>
 - Antifragile <span style="color:gray">by Nassim Taleb</span>
@@ -156,7 +156,7 @@ Make paper books as easy to access as possible.
 - Blink <span style="color:gray">by Malcolm Gladwell</span>
 - Genius <span style="color:gray">by James Gleick</span>
 - Chaos <span style="color:gray">by James Gleick</span>
-<!-- - Foundations of Applied Mathematics <span style="color:gray">by Michael Greenberg</span> -->
+- Foundations of Applied Mathematics <span style="color:gray">by Michael Greenberg</span>
 - 21 Lessons for the 21st Century <span style="color:gray">by Yuval Noah Harari</span>
 - Homo Deus <span style="color:gray">by Yuval Noah Harari</span>
 - Waking Up <span style="color:gray">by Sam Harris</span>
@@ -194,8 +194,11 @@ Make paper books as easy to access as possible.
 - I Contain Multitudes <span style="color:gray">by Ed Yong</span>
 - On Writing Well <span style="color:gray">by William Zinsser</span>
 
+<br/>
 
 **Unread, on my bookshelf**
+
+<br/>
 
 **English Literature**
 - Sense and Sensibility <span style="color:gray">by Jane Austen</span>
@@ -281,9 +284,9 @@ Make paper books as easy to access as possible.
 - The Power Broker <span style="color:gray">by Robert Caro</span>
 - Parallel Lives <span style="color:gray">by Plutarch</span>
 
-<!-- **Textbook**
+**Textbooks**
 - A History of American Law <span style="color:gray">by Lawrence Friedman</span>
-- Probability Theory <span style="color:gray">by E. T. Jaynes</span>
+- Probability Theory <span style="color:gray">by E.T. Jaynes</span>
 - A Concise Introduction to Pure Mathematics <span style="color:gray">by Martin Liebeck</span>
 - Analysis I <span style="color:gray">by Terence Tao</span>
 - Analysis II <span style="color:gray">by Terence Tao</span>
@@ -295,8 +298,18 @@ Make paper books as easy to access as possible.
 - Cybernetics <span style="color:gray">by Norbert Wiener</span>
 - A Private ARPA User Manual <span style="color:gray">by Benjamin Reinhardt</span>
 - Inflection Point <span style="color:gray">by Ochmanek et al.</span>
-- _______ <span style="color:gray">by _________</span>
-- _______ <span style="color:gray">by _________</span> -->
+- University Physics with Modern Physics <span style="color:gray">by Young and Freedman</span>
+- Vibrations and Waves <span style="color:gray">by A.P. French</span>
+- Vibrations and Waves <span style="color:gray">by George King</span>
+- Classical Mechanics <span style="color:gray">by John Taylor</span>
+- Introduction to Electrodynamics <span style="color:gray">by David Griffiths</span>
+- Introduction to Quantum Mechanics <span style="color:gray">by David Griffiths</span>
+- An Introduction to Thermal Physics <span style="color:gray">by Daniel Schroeder</span>
+- An Introduction to Elementary Particles <span style="color:gray">by David Griffiths</span>
+- Biophysics <span style="color:gray">by Roland Glaser</span>
+- Basic Electronics for Scientists and Engineers <span style="color:gray">by Dennis Eggleston</span>
+- Optics <span style="color:gray">by Eugene Hecht</span>
+<!-- - _______ <span style="color:gray">by _________</span> -->
 
 
 

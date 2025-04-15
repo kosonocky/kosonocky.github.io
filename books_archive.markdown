@@ -8,8 +8,10 @@ permalink: /books/archive
 **Books I've read in reverse chronological order**
 
 2025:
+- Dead Souls <span style="color:gray">by Nikolay Gogol</span>
 - Lenin <span style="color:gray">by Victor Sebestyen</span>
 - The Code of the Woosters <span style="color:gray">by P.G. Wodehouse</span>
+- Physical Chemistry <span style="color:gray">by Peter Atkins</span>
 - A New World Begins <span style="color:gray">by Jeremy Popkin</span>
 - What is Life? <span style="color:gray">by Erwin Schrödinger</span>
 - Crime and Punishment <span style="color:gray">by Fyodor Dostoevsky</span>
