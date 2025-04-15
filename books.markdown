@@ -182,6 +182,8 @@ permalink: /books/
 
 <br/>
 
+<hr>
+
 **Unread, on my bookshelf**
 
 <br/>
@@ -297,7 +299,11 @@ permalink: /books/
 - Optics <span style="color:gray">by Eugene Hecht</span>
 <!-- - _______ <span style="color:gray">by _________</span> -->
 
-<br/><br/>
+<br/>
+
+<hr>
+
+<br/>
 
 **Advice for reading**
 
