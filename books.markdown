@@ -70,6 +70,7 @@ permalink: /books/
 - Think on These Things <span style="color:gray">by Krishnamurti</span>
 - To Kill a Mockingbird <span style="color:gray">by Harper Lee</span>
 - Love in the Time of Cholera <span style="color:gray">by Gabriel Garcia Marquez</span>
+- The Organic Chemistry of Biological Pathways <span style="color:gray">by John McMurry</span>
 - Plagues and Peoples <span style="color:gray">by William H. McNeil</span>
 - The Way to Love <span style="color:gray">by Anthony De Mello</span>
 - Awareness <span style="color:gray">by Anthony de Mello</span>
@@ -107,6 +108,7 @@ permalink: /books/
 - The Way of Zen <span style="color:gray">by Alan Watts</span>
 - The Book <span style="color:gray">by Alan Watts</span>
 - Physics of Wall Street <span style="color:gray">by James Owen Weatherall</span>
+- Janeway's Immunology <span style="color:gray">by Casey Weaver</span>
 - The Picture of Dorian Gray <span style="color:gray">by Oscar Wilde</span>
 - Stoner <span style="color:gray">by John Williams</span>
 - The Code of the Woosters <span style="color:gray">by P.G. Wodehouse</span>

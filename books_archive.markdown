@@ -31,6 +31,8 @@ permalink: /books/archive
 - Exhalation <span style="color:gray">by Ted Chiang</span>
 - As I Lay Dying <span style="color:gray">by William Faulkner</span>
 - Plagues and Peoples <span style="color:gray">by William H. McNeil</span>
+- The Organic Chemistry of Biological Pathways <span style="color:gray">by John McMurry</span>
+- Janeway's Immunology <span style="color:gray">by Casey Weaver</span>
 - The Ancient City <span style="color:gray">by Numa Denis Fustel de Coulanges</span>
 - Uzumaki <span style="color:gray">by Junji Ito</span>
 - The Second Coming of the KKK <span style="color:gray">by Linda Gordon</span>
