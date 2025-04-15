@@ -43,6 +43,7 @@ Make paper books as easy to access as possible.
 
 **Worthwhile, for one reason or another**
 - Meditations <span style="color:gray">by Marcus Aurelius</span>
+<!-- - Physical Chemistry <span style="color:gray">by Peter Atkins</span> -->
 - Persuasion <span style="color:gray">by Jane Austen</span>
 - Pride and Prejudice <span style="color:gray">by Jane Austen</span>
 - The Fire Next Time <span style="color:gray">by James Baldwin</span>
@@ -105,6 +106,7 @@ Make paper books as easy to access as possible.
 - Lenin <span style="color:gray">by Victor Sebestyen</span>
 - Letters from a Stoic <span style="color:gray">by Seneca</span>
 - Snow Crash <span style="color:gray">by Neal Stephenson</span>
+<!-- - Essential Calculus <span style="color:gray">by James Stewart</span> -->
 - Fooled by Randomness <span style="color:gray">by Nassim Taleb</span>
 - Black Swan <span style="color:gray">by Nassim Taleb</span>
 - Antifragile <span style="color:gray">by Nassim Taleb</span>
@@ -154,6 +156,7 @@ Make paper books as easy to access as possible.
 - Blink <span style="color:gray">by Malcolm Gladwell</span>
 - Genius <span style="color:gray">by James Gleick</span>
 - Chaos <span style="color:gray">by James Gleick</span>
+<!-- - Foundations of Applied Mathematics <span style="color:gray">by Michael Greenberg</span> -->
 - 21 Lessons for the 21st Century <span style="color:gray">by Yuval Noah Harari</span>
 - Homo Deus <span style="color:gray">by Yuval Noah Harari</span>
 - Waking Up <span style="color:gray">by Sam Harris</span>
