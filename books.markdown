@@ -18,6 +18,7 @@ permalink: /books/
 - **A Farewell to Arms** <span style="color:gray">by Ernest Hemingway</span>
 - **Siddhartha** <span style="color:gray">by Herman Hesse</span>
 - **The Trial** <span style="color:gray">by Franz Kafka</span>
+- **A Concise Introduction to Pure Mathematics** <span style="color:gray">by Martin Liebeck</span>
 - **One Hundred Years of Solitude** <span style="color:gray">by Gabriel Garcia Marquez</span>
 - **Homage to Catalonia** <span style="color:gray">by George Orwell</span>
 - **Wind, Sand, and Stars** <span style="color:gray">by Antoine De Saint-Exupéry</span>
@@ -279,7 +280,6 @@ permalink: /books/
 **Textbooks**
 - A History of American Law <span style="color:gray">by Lawrence Friedman</span>
 - Probability Theory <span style="color:gray">by E.T. Jaynes</span>
-- A Concise Introduction to Pure Mathematics <span style="color:gray">by Martin Liebeck</span>
 - Analysis I <span style="color:gray">by Terence Tao</span>
 - Analysis II <span style="color:gray">by Terence Tao</span>
 - Complex Analysis <span style="color:gray">by Stein and Shakarchi</span>
