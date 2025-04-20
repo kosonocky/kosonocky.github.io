@@ -4,7 +4,7 @@ title: books
 permalink: /books/
 ---
 
-Certified Classics in **Bold**
+The following are books I've read that I found worth reading. Certified Classics in **Bold**.
 
 **Fiction**
 - Persuasion <span style="color:gray">by Jane Austen</span>
@@ -76,6 +76,8 @@ Certified Classics in **Bold**
 - What Do You Care What Other People Think? <span style="color:gray">by Richard Feynman</span>
 - Man’s Search for Meaning <span style="color:gray">by Viktor Frankl</span>
 - The Pursuit of Italy <span style="color:gray">by David Gilmore</span>
+- Genius <span style="color:gray">by James Gleick</span>
+- Chaos <span style="color:gray">by James Gleick</span>
 - The Second Coming of the KKK <span style="color:gray">by Linda Gordon</span>
 - The Intelligent Investor <span style="color:gray">by Benjamin Graham</span>
 - Sapiens <span style="color:gray">by Yuval Noah Harari</span>
@@ -83,7 +85,6 @@ Certified Classics in **Bold**
 - The True Believer <span style="color:gray">by Eric Hoffer</span>
 - Godel, Escher, Bach <span style="color:gray">by Douglas Hofstadter</span>
 - Leonardo DaVinci <span style="color:gray">by Walter Isaacson</span>
-- Letter from Birmingham Jail <span style="color:gray">by Martin Luther King Jr</span>
 - Think on These Things <span style="color:gray">by Krishnamurti</span>
 - Plagues and Peoples <span style="color:gray">by William H. McNeil</span>
 - The Way to Love <span style="color:gray">by Anthony De Mello</span>
@@ -119,6 +120,10 @@ Certified Classics in **Bold**
 - Janeway's Immunology <span style="color:gray">by Casey Weaver</span>
 
 
+<br/> 
+
+<hr>
+
 <br/>
 
 **I would generally not recommend the following books**
@@ -147,8 +152,6 @@ Certified Classics in **Bold**
 - Outliers <span style="color:gray">by Malcolm Gladwell</span>
 - Talking to Strangers <span style="color:gray">by Malcolm Gladwell</span>
 - Blink <span style="color:gray">by Malcolm Gladwell</span>
-- Genius <span style="color:gray">by James Gleick</span>
-- Chaos <span style="color:gray">by James Gleick</span>
 - Foundations of Applied Mathematics <span style="color:gray">by Michael Greenberg</span>
 - 21 Lessons for the 21st Century <span style="color:gray">by Yuval Noah Harari</span>
 - Homo Deus <span style="color:gray">by Yuval Noah Harari</span>
@@ -168,6 +171,7 @@ Certified Classics in **Bold**
 - The Prince <span style="color:gray">by Niccolò Machiavelli</span>
 - Death in Venice <span style="color:gray">by Thomas Mann</span>
 - The Science of Can and Can’t <span style="color:gray">by Chiara Marletto</span>
+- Letter from Birmingham Jail <span style="color:gray">by Martin Luther King Jr</span>
 - Bright Lights, Big City <span style="color:gray">by Jay McInerney</span>
 - What I Learned Losing a Million Dollars <span style="color:gray">by Paul and Moynihan</span>
 - 12 Rules for Life <span style="color:gray">by Jordan Peterson</span>
@@ -308,7 +312,7 @@ Trust that you will retain what is most important.
 
 Do not finish the book for the sake of the book.
 
-Make paper books as easy to access as possible.
+Make physical books as easy to access as possible.
 
 
 <br/><br/>
