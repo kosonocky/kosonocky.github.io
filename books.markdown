@@ -4,7 +4,7 @@ title: books
 permalink: /books/
 ---
 
-The following are books I've read that I found worth reading. Certified Classics in **Bold**.
+The following are books I've read that I found worth reading. Certified classics in **Bold**
 
 **Fiction**
 - Persuasion <span style="color:gray">by Jane Austen</span>
@@ -126,7 +126,8 @@ The following are books I've read that I found worth reading. Certified Classics
 
 <br/>
 
-**I would generally not recommend the following books**
+I would generally not recommend the following books
+
 - God’s Debris <span style="color:gray">by Scott Adams</span>
 - Facing the Anthropocene <span style="color:gray">by Ian Angus</span>
 - Getting Things Done <span style="color:gray">by David Allen</span>
