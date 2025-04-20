@@ -12,7 +12,7 @@ The following are books I've read that I found worth reading. Certified classics
 - Fahrenheit 451 <span style="color:gray">by Ray Bradbury</span>
 - The Fall <span style="color:gray">by Albert Camus</span>
 - The Myth of Sisyphus <span style="color:gray">by Albert Camus</span>
-- **The Plague** <span style="color:gray">by Albert Camus</span>
+- **The Plague** <span style="color:gray">**by Albert Camus**</span>
 - The Stranger <span style="color:gray">by Albert Camus</span>
 - Exhalation <span style="color:gray">by Ted Chiang</span>
 - **The Fabric of Reality** <span style="color:gray">by David Deutsch</span>
