@@ -183,17 +183,16 @@ permalink: /books/
 - I Contain Multitudes <span style="color:gray">by Ed Yong</span>
 - On Writing Well <span style="color:gray">by William Zinsser</span>
 
+<!-- <br/> -->
+
+<!-- <hr>
+
+<br/> -->
+
+<!-- **Unread, on my bookshelf**
+
 <br/>
 
-<hr>
-
-<br/>
-
-**Unread, on my bookshelf**
-
-<br/>
-
-**English Literature**
 - Sense and Sensibility <span style="color:gray">by Jane Austen</span>
 - Jane Eyre <span style="color:gray">by Charlotte Bronte</span>
 - Wuthering Heights <span style="color:gray">by Emily Bronte</span>
@@ -202,20 +201,14 @@ permalink: /books/
 - A Time of Gifts <span style="color:gray">by Patrick Leigh Fermor</span>
 - A Room With a View <span style="color:gray">by E. M. Forster</span>
 - Tess of the D'Urbervilles <span style="color:gray">by Thomas Hardy</span>
-
-**French Literature**
 - Swann's Way <span style="color:gray">by Marcel Proust</span>
 - Candide <span style="color:gray">by Voltaire</span>
 - The idiot <span style="color:gray">by Fyodor Dostoevsky</span>
-
-**Russian Literature**
 - The Master and Margarita <span style="color:gray">by Mikhail Bulgakov</span>
 - Doctor Zhivago <span style="color:gray">by Boris Pasternak</span>
 - One Day in the Life of Ivan Denisovich <span style="color:gray">by Aleksandr Solzhenitsyn</span>
 - Cancer Ward <span style="color:gray">by Aleksandr Solzhenitsyn</span>
 - War and Peace <span style="color:gray">by Leo Tolstoy</span>
-
-**American Literature**
 - Little Women <span style="color:gray">by Louisa May Alcott</span>
 - Invisible Man <span style="color:gray">by Ralph Ellison</span>
 - Absalom, Absalom <span style="color:gray">by William Faulkner</span>
@@ -231,20 +224,14 @@ permalink: /books/
 - The Grapes of Wrath <span style="color:gray">by John Steinbeck</span>
 - Moby Dick <span style="color:gray">by Herman Melville</span>
 - The Bonfire of the Vanities <span style="color:gray">by Tom Wolfe</span>
-
-**Latin American Literature**
 - Ficciones <span style="color:gray">by Jorge Luis Borges</span>
 - The Death of Artemio Cruz <span style="color:gray">by Carlos Fuentes</span>
-
-**Sci-Fi**
-- Foundatino <span style="color:gray">by Isaac Asimov</span>
+- Foundation <span style="color:gray">by Isaac Asimov</span>
 - Stories of Your Life and Others <span style="color:gray">by Ted Chiang</span>
 - Starship Troopers <span style="color:gray">by Robert Heinlein</span>
 - The Martian <span style="color:gray">by Andy Weir</span>
 - The Time Machine <span style="color:gray">by H. G. Wells</span>
 - The Invisible Man <span style="color:gray">by H. G. Wells</span>
-
-**Non-Fiction**
 - Hateship, Friendship, Courtship, Loveship, Marriage <span style="color:gray">by Alice Murno</span>
 - The Soul of a New Machine <span style="color:gray">by Tracy Kidder</span>
 - Medieval Technology and Social Change <span style="color:gray">by Lynn White</span>
@@ -276,8 +263,6 @@ permalink: /books/
 - Born Red <span style="color:gray">by Yuan Gao</span>
 - The Power Broker <span style="color:gray">by Robert Caro</span>
 - Parallel Lives <span style="color:gray">by Plutarch</span>
-
-**Textbooks**
 - A History of American Law <span style="color:gray">by Lawrence Friedman</span>
 - Probability Theory <span style="color:gray">by E.T. Jaynes</span>
 - Analysis I <span style="color:gray">by Terence Tao</span>
@@ -301,7 +286,7 @@ permalink: /books/
 - Biophysics <span style="color:gray">by Roland Glaser</span>
 - Basic Electronics for Scientists and Engineers <span style="color:gray">by Dennis Eggleston</span>
 - Optics <span style="color:gray">by Eugene Hecht</span>
-<!-- - _______ <span style="color:gray">by _________</span> -->
+- _______ <span style="color:gray">by _________</span> -->
 
 <br/>
 
