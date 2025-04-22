@@ -8,6 +8,7 @@ permalink: /books/archive
 **Books I've read in reverse chronological order**
 
 2025:
+- Skunk Works <span style="color:gray">by Ben Rich</span>
 - A Concise Introduction to Pure Mathematics <span style="color:gray">by Martin Liebeck</span>
 - Dead Souls <span style="color:gray">by Nikolay Gogol</span>
 - Lenin <span style="color:gray">by Victor Sebestyen</span>

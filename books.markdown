@@ -96,6 +96,7 @@ The following are books I've read that I found worth reading. Certified classics
 - The Omnivore’s Dilemma <span style="color:gray">by Michael Pollan</span>
 - How to Change Your Mind <span style="color:gray">by Michael Pollan</span>
 - A New World Begins <span style="color:gray">by Jeremy Popkin</span>
+- **Skunk Works** <span style="color:gray">**by Ben Rich**</span>
 - **Wind, Sand, and Stars** <span style="color:gray">**by Antoine De Saint-Exupéry**</span>
 - Lenin <span style="color:gray">by Victor Sebestyen</span>
 - Letters from a Stoic <span style="color:gray">by Seneca</span>
