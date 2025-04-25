@@ -80,6 +80,7 @@ The following are books I've read that I found worth reading. Certified classics
 - Chaos <span style="color:gray">by James Gleick</span>
 - The Second Coming of the KKK <span style="color:gray">by Linda Gordon</span>
 - The Intelligent Investor <span style="color:gray">by Benjamin Graham</span>
+- **The Art of Doing Science and Engineering** <span style="color:gray">**by Richard Hamming**</span>
 - Sapiens <span style="color:gray">by Yuval Noah Harari</span>
 - A Mathematician’s Apology <span style="color:gray">by GH Hardy</span>
 - The True Believer <span style="color:gray">by Eric Hoffer</span>
