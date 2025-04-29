@@ -111,6 +111,7 @@ The following are books I've read that I found worth reading. Certified classics
 - The Way of Zen <span style="color:gray">by Alan Watts</span>
 - The Book <span style="color:gray">by Alan Watts</span>
 - Physics of Wall Street <span style="color:gray">by James Owen Weatherall</span>
+- **Medieval Technology and Social Change** <span style="color:gray">**by Lynn White, Jr.**</span>
 - Radical Chic & Mau-Mauing the Flak Catchers <span style="color:gray">by Tom Wolfe</span>
 
 
