@@ -8,6 +8,7 @@ permalink: /books/archive
 **Books I've read in reverse chronological order**
 
 2025:
+- The History of Sexuality Vol. 1: <span style="color:gray">by Michel Foucault</span>
 - Medieval Technology and Social Change <span style="color:gray">by Lynn White, Jr.</span>
 - The Art of Doing Science and Engineering <span style="color:gray">by Richard Hamming</span>
 - Skunk Works <span style="color:gray">by Ben Rich</span>

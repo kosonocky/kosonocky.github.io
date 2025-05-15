@@ -4,7 +4,7 @@ title: books
 permalink: /books/
 ---
 
-The following are books I've read that I found worth reading. Certified classics in **Bold**
+The following are books I found worth reading. Certified classics in **Bold**
 
 **Fiction**
 - Persuasion <span style="color:gray">by Jane Austen</span>
@@ -74,6 +74,7 @@ The following are books I've read that I found worth reading. Certified classics
 - Enchiridion <span style="color:gray">by Epictetus</span>
 - Surely You’re Joking Mr. Feynman <span style="color:gray">by Richard Feynman</span>
 - What Do You Care What Other People Think? <span style="color:gray">by Richard Feynman</span>
+- The History of Sexuality Vol. 1: <span style="color:gray">by Michel Foucault</span>
 - Man’s Search for Meaning <span style="color:gray">by Viktor Frankl</span>
 - The Pursuit of Italy <span style="color:gray">by David Gilmore</span>
 - Genius <span style="color:gray">by James Gleick</span>
@@ -129,7 +130,7 @@ The following are books I've read that I found worth reading. Certified classics
 
 <br/>
 
-I would generally not recommend the following books
+I generally wouldn't recommend the following books
 
 - God’s Debris <span style="color:gray">by Scott Adams</span>
 - Facing the Anthropocene <span style="color:gray">by Ian Angus</span>
