@@ -71,6 +71,7 @@ The following are books I found worth reading. Certified classics in **Bold**
 - The Fire Next Time <span style="color:gray">by James Baldwin</span>
 - Superintelligence <span style="color:gray">by Nick Bostrom</span>
 - The Managerial Revolution <span style="color:gray">by James Burnham</span>
+- Profiles of the Future <span style="color:gray">by Arthur C. Clarke</span>
 - Enchiridion <span style="color:gray">by Epictetus</span>
 - Surely You’re Joking Mr. Feynman <span style="color:gray">by Richard Feynman</span>
 - What Do You Care What Other People Think? <span style="color:gray">by Richard Feynman</span>
