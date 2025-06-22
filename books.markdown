@@ -39,6 +39,7 @@ The following are books I found worth reading. Certified classics in **Bold**
 - Brave New World <span style="color:gray">by Arduous Huxley</span>
 - Uzumaki <span style="color:gray">by Junji Ito</span>
 - The Castle <span style="color:gray">by Franz Kafka</span>
+- The Metamorphosis <span style="color:gray">by Franz Kafka</span>
 - **The Trial** <span style="color:gray">**by Franz Kafka**</span>
 - One Flew Over the Cuckoo’s Nest <span style="color:gray">by Ken Kesey</span>
 - To Kill a Mockingbird <span style="color:gray">by Harper Lee</span>
@@ -60,6 +61,7 @@ The following are books I found worth reading. Certified classics in **Bold**
 - **The Lord of the Rings** <span style="color:gray">**by JRR Tolkien**</span>
 - **Anna Karenina** <span style="color:gray">**by Leo Tolstoy**</span>
 - The Cossacks <span style="color:gray">by Leo Tolstoy</span>
+- The Adventures of Tom Sawyer <span style="color:gray">by Mark Twain</span>
 - Cats Cradle <span style="color:gray">by Kurt Vonnegut</span>
 - Slaughterhouse Five <span style="color:gray">by Kurt Vonnegut</span>
 - The Picture of Dorian Gray <span style="color:gray">by Oscar Wilde</span>

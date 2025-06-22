@@ -8,6 +8,8 @@ permalink: /books/archive
 **Books I've read in reverse chronological order**
 
 2025:
+- The Metamorphosis (audiobook) <span style="color:gray">by Franz Kafka</span>
+- The Adventures of Tom Sawyer <span style="color:gray">by Mark Twain</span>
 - Profiles of the Future <span style="color:gray">by Arthur C. Clarke</span>
 - The History of Sexuality Vol. 1 <span style="color:gray">by Michel Foucault</span>
 - Medieval Technology and Social Change <span style="color:gray">by Lynn White, Jr.</span>
