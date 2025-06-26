@@ -304,7 +304,7 @@ I generally wouldn't recommend the following books
 - Optics <span style="color:gray">by Eugene Hecht</span>
 - _______ <span style="color:gray">by _________</span> -->
 
-<br/>
+<!-- <br/>
 
 <hr>
 
@@ -320,7 +320,7 @@ Trust that you will retain what is most important.
 
 Do not finish the book for the sake of the book.
 
-Make physical books as easy to access as possible.
+Make physical books as easy to access as possible. -->
 
 
 <br/><br/>
