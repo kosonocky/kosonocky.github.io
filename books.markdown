@@ -6,62 +6,6 @@ permalink: /books/
 
 The following are books I found worth reading. Certified classics in **Bold**
 
-**Fiction**
-- Persuasion <span style="color:gray">by Jane Austen</span>
-- Pride and Prejudice <span style="color:gray">by Jane Austen</span>
-- Fahrenheit 451 <span style="color:gray">by Ray Bradbury</span>
-- The Fall <span style="color:gray">by Albert Camus</span>
-- **The Plague** <span style="color:gray">**by Albert Camus**</span>
-- The Stranger <span style="color:gray">by Albert Camus</span>
-- Exhalation <span style="color:gray">by Ted Chiang</span>
-- **The Brothers Karamazov** <span style="color:gray">**by Fyodor Dostoevsky**</span>
-- **Crime and Punishment** <span style="color:gray">**by Fyodor Dostoevsky**</span>
-- The Gambler <span style="color:gray">by Fyodor Dostoevsky</span>
-- A Study in Scarlet <span style="color:gray">by Sir Arthur Conan Doyle</span>
-- As I Lay Dying <span style="color:gray">by William Faulkner</span>
-- The Great Gatsby <span style="color:gray">by F Scott Fitzgerald</span>
-- The Prophet <span style="color:gray">by Kahlil Gibran</span>
-- Dead Souls <span style="color:gray">by Nikolay Gogol</span>
-- **Lying** <span style="color:gray">**by Sam Harris**</span>
-- **Catch-22** <span style="color:gray">**by Joseph Heller**</span>
-- **A Farewell to Arms** <span style="color:gray">**by Ernest Hemingway**</span>
-- **For Whom the Bell Tolls** <span style="color:gray">**by Ernest Hemingway**</span>
-- The Sun Also Rises <span style="color:gray">by Ernest Hemingway</span>
-- Dune <span style="color:gray">by Frank Herbert</span>
-- **Siddhartha** <span style="color:gray">**by Herman Hesse**</span>
-- Their Eyes Were Watching God <span style="color:gray">by Zora Neale Hurston</span>
-- Brave New World <span style="color:gray">by Arduous Huxley</span>
-- Uzumaki <span style="color:gray">by Junji Ito</span>
-- The Castle <span style="color:gray">by Franz Kafka</span>
-- The Metamorphosis <span style="color:gray">by Franz Kafka</span>
-- **The Trial** <span style="color:gray">**by Franz Kafka**</span>
-- One Flew Over the Cuckoo’s Nest <span style="color:gray">by Ken Kesey</span>
-- To Kill a Mockingbird <span style="color:gray">by Harper Lee</span>
-- Love in the Time of Cholera <span style="color:gray">by Gabriel Garcia Marquez</span>
-- **One Hundred Years of Solitude** <span style="color:gray">**by Gabriel Garcia Marquez**</span>
-- Norwegian Wood <span style="color:gray">by Haruki Murakami</span>
-- Lolita <span style="color:gray">by Vladimir Nabokov</span>
-- 1984 <span style="color:gray">by George Orwell</span>
-- The Bell Jar <span style="color:gray">by Sylvia Plath</span>
-- Atlas Shrugged <span style="color:gray">by Ayn Rand</span>
-- Harry Potter <span style="color:gray">by JK Rowling</span>
-- Catcher in the Rye <span style="color:gray">by JD Salinger</span>
-- No Exit <span style="color:gray">by Jean-Paul Sartre</span>
-- Dirty Hands <span style="color:gray">by Jean-Paul Sartre</span>
-- What Makes Sammy Run <span style="color:gray">by Budd Schulberg</span>
-- **Hyperion** <span style="color:gray">**by Dan Simmons**</span>
-- Snow Crash <span style="color:gray">by Neal Stephenson</span>
-- The Hobbit <span style="color:gray">by JRR Tolkien</span>
-- **The Lord of the Rings** <span style="color:gray">**by JRR Tolkien**</span>
-- **Anna Karenina** <span style="color:gray">**by Leo Tolstoy**</span>
-- The Cossacks <span style="color:gray">by Leo Tolstoy</span>
-- The Adventures of Tom Sawyer <span style="color:gray">by Mark Twain</span>
-- Cats Cradle <span style="color:gray">by Kurt Vonnegut</span>
-- Slaughterhouse Five <span style="color:gray">by Kurt Vonnegut</span>
-- The Picture of Dorian Gray <span style="color:gray">by Oscar Wilde</span>
-- Stoner <span style="color:gray">by John Williams</span>
-- The Code of the Woosters <span style="color:gray">by P.G. Wodehouse</span>
-
 **Non-Fiction**
 - Meditations <span style="color:gray">by Marcus Aurelius</span>
 - The Fire Next Time <span style="color:gray">by James Baldwin</span>
@@ -118,6 +62,61 @@ The following are books I found worth reading. Certified classics in **Bold**
 - **Medieval Technology and Social Change** <span style="color:gray">**by Lynn White, Jr.**</span>
 - Radical Chic & Mau-Mauing the Flak Catchers <span style="color:gray">by Tom Wolfe</span>
 
+**Fiction**
+- Persuasion <span style="color:gray">by Jane Austen</span>
+- Pride and Prejudice <span style="color:gray">by Jane Austen</span>
+- Fahrenheit 451 <span style="color:gray">by Ray Bradbury</span>
+- The Fall <span style="color:gray">by Albert Camus</span>
+- **The Plague** <span style="color:gray">**by Albert Camus**</span>
+- The Stranger <span style="color:gray">by Albert Camus</span>
+- Exhalation <span style="color:gray">by Ted Chiang</span>
+- **The Brothers Karamazov** <span style="color:gray">**by Fyodor Dostoevsky**</span>
+- **Crime and Punishment** <span style="color:gray">**by Fyodor Dostoevsky**</span>
+- The Gambler <span style="color:gray">by Fyodor Dostoevsky</span>
+- A Study in Scarlet <span style="color:gray">by Sir Arthur Conan Doyle</span>
+- As I Lay Dying <span style="color:gray">by William Faulkner</span>
+- The Great Gatsby <span style="color:gray">by F Scott Fitzgerald</span>
+- The Prophet <span style="color:gray">by Kahlil Gibran</span>
+- Dead Souls <span style="color:gray">by Nikolay Gogol</span>
+- **Lying** <span style="color:gray">**by Sam Harris**</span>
+- **Catch-22** <span style="color:gray">**by Joseph Heller**</span>
+- **A Farewell to Arms** <span style="color:gray">**by Ernest Hemingway**</span>
+- **For Whom the Bell Tolls** <span style="color:gray">**by Ernest Hemingway**</span>
+- The Sun Also Rises <span style="color:gray">by Ernest Hemingway</span>
+- Dune <span style="color:gray">by Frank Herbert</span>
+- **Siddhartha** <span style="color:gray">**by Herman Hesse**</span>
+- Their Eyes Were Watching God <span style="color:gray">by Zora Neale Hurston</span>
+- Brave New World <span style="color:gray">by Arduous Huxley</span>
+- Uzumaki <span style="color:gray">by Junji Ito</span>
+- The Castle <span style="color:gray">by Franz Kafka</span>
+- The Metamorphosis <span style="color:gray">by Franz Kafka</span>
+- **The Trial** <span style="color:gray">**by Franz Kafka**</span>
+- One Flew Over the Cuckoo’s Nest <span style="color:gray">by Ken Kesey</span>
+- To Kill a Mockingbird <span style="color:gray">by Harper Lee</span>
+- Love in the Time of Cholera <span style="color:gray">by Gabriel Garcia Marquez</span>
+- **One Hundred Years of Solitude** <span style="color:gray">**by Gabriel Garcia Marquez**</span>
+- Norwegian Wood <span style="color:gray">by Haruki Murakami</span>
+- Lolita <span style="color:gray">by Vladimir Nabokov</span>
+- 1984 <span style="color:gray">by George Orwell</span>
+- The Bell Jar <span style="color:gray">by Sylvia Plath</span>
+- Atlas Shrugged <span style="color:gray">by Ayn Rand</span>
+- Harry Potter <span style="color:gray">by JK Rowling</span>
+- Catcher in the Rye <span style="color:gray">by JD Salinger</span>
+- No Exit <span style="color:gray">by Jean-Paul Sartre</span>
+- Dirty Hands <span style="color:gray">by Jean-Paul Sartre</span>
+- What Makes Sammy Run <span style="color:gray">by Budd Schulberg</span>
+- **Hyperion** <span style="color:gray">**by Dan Simmons**</span>
+- Snow Crash <span style="color:gray">by Neal Stephenson</span>
+- The Hobbit <span style="color:gray">by JRR Tolkien</span>
+- **The Lord of the Rings** <span style="color:gray">**by JRR Tolkien**</span>
+- **Anna Karenina** <span style="color:gray">**by Leo Tolstoy**</span>
+- The Cossacks <span style="color:gray">by Leo Tolstoy</span>
+- The Adventures of Tom Sawyer <span style="color:gray">by Mark Twain</span>
+- Cats Cradle <span style="color:gray">by Kurt Vonnegut</span>
+- Slaughterhouse Five <span style="color:gray">by Kurt Vonnegut</span>
+- The Picture of Dorian Gray <span style="color:gray">by Oscar Wilde</span>
+- Stoner <span style="color:gray">by John Williams</span>
+- The Code of the Woosters <span style="color:gray">by P.G. Wodehouse</span>
 
 **Textbooks**
 - Physical Chemistry <span style="color:gray">by Peter Atkins</span>
