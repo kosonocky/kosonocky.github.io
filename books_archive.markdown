@@ -8,6 +8,7 @@ permalink: /books/archive
 **Books I've read in reverse chronological order**
 
 2025:
+- The Problems of Philosophy <span style="color:gray">by Bertrand Russell</span>
 - The Metamorphosis (audiobook) <span style="color:gray">by Franz Kafka</span>
 - The Adventures of Tom Sawyer <span style="color:gray">by Mark Twain</span>
 - Profiles of the Future <span style="color:gray">by Arthur C. Clarke</span>

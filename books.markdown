@@ -46,6 +46,7 @@ The following are books I found worth reading. Certified classics in **Bold**
 - How to Change Your Mind <span style="color:gray">by Michael Pollan</span>
 - A New World Begins <span style="color:gray">by Jeremy Popkin</span>
 - **Skunk Works** <span style="color:gray">**by Ben Rich**</span>
+- The Problems of Philosophy <span style="color:gray">by Bertrand Russell</span>
 - **Wind, Sand, and Stars** <span style="color:gray">**by Antoine De Saint-Exupéry**</span>
 - Lenin <span style="color:gray">by Victor Sebestyen</span>
 - Letters from a Stoic <span style="color:gray">by Seneca</span>
