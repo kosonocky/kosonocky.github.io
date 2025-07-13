@@ -34,8 +34,8 @@ permalink: /books/archive
 <br/>
 
 2024:
-- The Name of the Wind (DNF) <span style="color:gray">by Patrick Rothfuss</span>
-- The Crystal Frontier (DNF) <span style="color:gray">by Carlos Fuentes</span>
+- The Name of the Wind (quit early)<span style="color:gray">by Patrick Rothfuss</span>
+- The Crystal Frontier (quit early) <span style="color:gray">by Carlos Fuentes</span>
 - The Myth of Sisyphus <span style="color:gray">by Albert Camus</span>
 - Exhalation <span style="color:gray">by Ted Chiang</span>
 - As I Lay Dying <span style="color:gray">by William Faulkner</span>
@@ -50,12 +50,12 @@ permalink: /books/archive
 - The Captive Mind <span style="color:gray">by Czeslaw Milosz</span>
 - The Pursuit of Italy <span style="color:gray">by David Gilmore</span>
 - Death in Venice <span style="color:gray">by Thomas Mann</span>
-- His Master's Voice (DNF) <span style="color:gray">by Stanislaw Lem</span>
+- His Master's Voice (quit early) <span style="color:gray">by Stanislaw Lem</span>
 - Anna Karenina <span style="color:gray">by Leo Tolstoy</span>
 - The Cossacks <span style="color:gray">by Leo Tolstoy</span>
 - The Gambler <span style="color:gray">by Fyodor Dostoevsky</span>
 - Norwegian Wood <span style="color:gray">by Haruki Murakami</span>
-- Barbarian Days (DNF)<span style="color:gray">by William Finnegan</span>
+- Barbarian Days (quit early) <span style="color:gray">by William Finnegan</span>
 - The Brothers Karamazov <span style="color:gray">by Fyodor Dostoevsky</span>
 - Autobiography <span style="color:gray">by Benjamin Franklin</span>
 - Leave Me Alone and I’ll Make You Rich <span style="color:gray">by McCloskey and Carden</span>

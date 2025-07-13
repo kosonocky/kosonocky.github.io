@@ -153,9 +153,7 @@ I generally wouldn't recommend the following books
 - The Meaning of It All <span style="color:gray">by Richard Feynman</span>
 - Six Easy Pieces <span style="color:gray">by Richard Feynman</span>
 - Six Not So Easy Pieces <span style="color:gray">by Richard Feynman</span>
-- Barbarian Days (DNF)<span style="color:gray">by William Finnegan</span>
 - Moonwalking with Einstein <span style="color:gray">by Joshua Foer</span>
-- The Crystal Frontier (DNF) <span style="color:gray">by Carlos Fuentes</span>
 - Bomber Mafia <span style="color:gray">by Malcolm Gladwell</span>
 - Outliers <span style="color:gray">by Malcolm Gladwell</span>
 - Talking to Strangers <span style="color:gray">by Malcolm Gladwell</span>
@@ -173,7 +171,6 @@ I generally wouldn't recommend the following books
 - Thinking, Fast & Slow <span style="color:gray">by Daniel Kahneman</span>
 - The Body Keeps the Score <span style="color:gray">by Bessel van der Kolk</span>
 - The Vital Question <span style="color:gray">by Nick Lane</span>
-- His Master's Voice (DNF) <span style="color:gray">by Stanislaw Lem</span>
 - The Three-Body Problem <span style="color:gray">by Cixin Liu</span>
 - Too Soon Old, Too Late Smart <span style="color:gray">by Gordon Livingston</span>
 - The Prince <span style="color:gray">by Niccolò Machiavelli</span>
@@ -186,7 +183,6 @@ I generally wouldn't recommend the following books
 - When <span style="color:gray">by Daniel Pink</span>
 - Love Yourself Like Your Life Depends On It <span style="color:gray">by Kamal Ravikant</span>
 - How Innovation Works <span style="color:gray">by Matt Ridley</span>
-- The Name of the Wind (DNF) <span style="color:gray">by Patrick Rothfuss</span>
 - The Order of Time <span style="color:gray">by Carlo Rovelli</span>
 - Seven Brief Lessons on Physics <span style="color:gray">by Carlo Rovelli</span>
 - How to Invest <span style="color:gray">by David Rubenstein</span>
@@ -198,6 +194,14 @@ I generally wouldn't recommend the following books
 - String Theory <span style="color:gray">by David Foster Wallace</span>
 - I Contain Multitudes <span style="color:gray">by Ed Yong</span>
 - On Writing Well <span style="color:gray">by William Zinsser</span>
+
+Quit early:
+- Barbarian Days <span style="color:gray">by William Finnegan</span>
+- The Crystal Frontier <span style="color:gray">by Carlos Fuentes</span>
+- His Master's Voice <span style="color:gray">by Stanislaw Lem</span>
+- The Name of the Wind <span style="color:gray">by Patrick Rothfuss</span>
+
+
 
 <!-- <br/> -->
 
