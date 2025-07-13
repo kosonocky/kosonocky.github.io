@@ -4,7 +4,7 @@ title: books
 permalink: /books/
 ---
 
-The following are books I found worth reading. Certified classics in **Bold**
+The following are books I found worth reading. Favorites in **Bold**
 
 **Non-Fiction**
 - Meditations <span style="color:gray">by Marcus Aurelius</span>
