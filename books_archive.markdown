@@ -8,6 +8,8 @@ permalink: /books/archive
 **Books I've read in reverse chronological order**
 
 2025:
+- The Martian <span style="color:gray">by Andy Weir</span>
+- Foundation <span style="color:gray">by Isaac Asimov</span>
 - The Problems of Philosophy <span style="color:gray">by Bertrand Russell</span>
 - The Metamorphosis (audiobook) <span style="color:gray">by Franz Kafka</span>
 - The Adventures of Tom Sawyer <span style="color:gray">by Mark Twain</span>
@@ -224,3 +226,10 @@ permalink: /books/archive
 - Astrophysics for People in a Hurry <span style="color:gray">by Neil Degrasse Tyson</span>
 - Seven Brief Lessons on Physics <span style="color:gray">by Carlo Rovelli</span>
 - Elon Musk <span style="color:gray">by Ashlee Vance</span>
+
+
+
+
+Skimmed and may or may not return to eventually. Mostly keeping this as a reference for myself:
+- International Politics of HIV/AIDS <span style="color:gray">by Hakan Seckinelgin</span>
+- After Democracy <span style="color:gray">by Zizi Papacharissi</span>

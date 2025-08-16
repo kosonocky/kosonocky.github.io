@@ -4,13 +4,13 @@ title: books
 permalink: /books/
 ---
 
-The following are books I found worth reading. Favorites in **Bold**
+The following are books I found worth reading. Titles in **bold** are my favorites and/or the books I recommend most often.
 
 **Non-Fiction**
 - Meditations <span style="color:gray">by Marcus Aurelius</span>
 - The Fire Next Time <span style="color:gray">by James Baldwin</span>
 - Superintelligence <span style="color:gray">by Nick Bostrom</span>
-- The Managerial Revolution <span style="color:gray">by James Burnham</span>
+- **The Managerial Revolution** <span style="color:gray">**by James Burnham**</span>
 - The Myth of Sisyphus <span style="color:gray">by Albert Camus</span>
 - Profiles of the Future <span style="color:gray">by Arthur C. Clarke</span>
 - **The Fabric of Reality** <span style="color:gray">**by David Deutsch**</span>
@@ -28,24 +28,25 @@ The following are books I found worth reading. Favorites in **Bold**
 - Chaos <span style="color:gray">by James Gleick</span>
 - The Second Coming of the KKK <span style="color:gray">by Linda Gordon</span>
 - The Intelligent Investor <span style="color:gray">by Benjamin Graham</span>
-- **The Art of Doing Science and Engineering** <span style="color:gray">**by Richard Hamming**</span>
+- The Art of Doing Science and Engineering <span style="color:gray">by Richard Hamming</span>
 - Sapiens <span style="color:gray">by Yuval Noah Harari</span>
 - A Mathematician’s Apology <span style="color:gray">by GH Hardy</span>
-- The True Believer <span style="color:gray">by Eric Hoffer</span>
-- Godel, Escher, Bach <span style="color:gray">by Douglas Hofstadter</span>
+- Lying <span style="color:gray">by Sam Harris</span>
+- **The True Believer** <span style="color:gray">**by Eric Hoffer**</span>
+- **Godel, Escher, Bach** <span style="color:gray">**by Douglas Hofstadter**</span>
 - Leonardo DaVinci <span style="color:gray">by Walter Isaacson</span>
 - Think on These Things <span style="color:gray">by Krishnamurti</span>
 - Plagues and Peoples <span style="color:gray">by William H. McNeil</span>
 - The Way to Love <span style="color:gray">by Anthony De Mello</span>
 - Awareness <span style="color:gray">by Anthony de Mello</span>
-- The Captive Mind <span style="color:gray">by Czeslaw Milosz</span>
+- **The Captive Mind** <span style="color:gray">**by Czeslaw Milosz**</span>
 - The Emperor of All Maladies <span style="color:gray">by Siddhartha Mukherjee</span>
 - **Homage to Catalonia** <span style="color:gray">**by George Orwell**</span>
 - Enlightenment Now <span style="color:gray">by Steven Pinker</span>
 - The Omnivore’s Dilemma <span style="color:gray">by Michael Pollan</span>
 - How to Change Your Mind <span style="color:gray">by Michael Pollan</span>
 - A New World Begins <span style="color:gray">by Jeremy Popkin</span>
-- **Skunk Works** <span style="color:gray">**by Ben Rich**</span>
+- Skunk Works <span style="color:gray">by Ben Rich</span>
 - The Problems of Philosophy <span style="color:gray">by Bertrand Russell</span>
 - **Wind, Sand, and Stars** <span style="color:gray">**by Antoine De Saint-Exupéry**</span>
 - Lenin <span style="color:gray">by Victor Sebestyen</span>
@@ -64,11 +65,12 @@ The following are books I found worth reading. Favorites in **Bold**
 - Radical Chic & Mau-Mauing the Flak Catchers <span style="color:gray">by Tom Wolfe</span>
 
 **Fiction**
+- **Foundation** <span style="color:gray">**by Isaac Asimov**</span>
 - Persuasion <span style="color:gray">by Jane Austen</span>
 - Pride and Prejudice <span style="color:gray">by Jane Austen</span>
 - Fahrenheit 451 <span style="color:gray">by Ray Bradbury</span>
 - The Fall <span style="color:gray">by Albert Camus</span>
-- **The Plague** <span style="color:gray">**by Albert Camus**</span>
+- The Plague <span style="color:gray">by Albert Camus</span>
 - The Stranger <span style="color:gray">by Albert Camus</span>
 - Exhalation <span style="color:gray">by Ted Chiang</span>
 - **The Brothers Karamazov** <span style="color:gray">**by Fyodor Dostoevsky**</span>
@@ -79,7 +81,6 @@ The following are books I found worth reading. Favorites in **Bold**
 - The Great Gatsby <span style="color:gray">by F Scott Fitzgerald</span>
 - The Prophet <span style="color:gray">by Kahlil Gibran</span>
 - Dead Souls <span style="color:gray">by Nikolay Gogol</span>
-- **Lying** <span style="color:gray">**by Sam Harris**</span>
 - **Catch-22** <span style="color:gray">**by Joseph Heller**</span>
 - **A Farewell to Arms** <span style="color:gray">**by Ernest Hemingway**</span>
 - **For Whom the Bell Tolls** <span style="color:gray">**by Ernest Hemingway**</span>
@@ -101,7 +102,7 @@ The following are books I found worth reading. Favorites in **Bold**
 - 1984 <span style="color:gray">by George Orwell</span>
 - The Bell Jar <span style="color:gray">by Sylvia Plath</span>
 - Atlas Shrugged <span style="color:gray">by Ayn Rand</span>
-- Harry Potter <span style="color:gray">by JK Rowling</span>
+- Harry Potter (series) <span style="color:gray">by JK Rowling</span>
 - Catcher in the Rye <span style="color:gray">by JD Salinger</span>
 - No Exit <span style="color:gray">by Jean-Paul Sartre</span>
 - Dirty Hands <span style="color:gray">by Jean-Paul Sartre</span>
@@ -115,6 +116,7 @@ The following are books I found worth reading. Favorites in **Bold**
 - The Adventures of Tom Sawyer <span style="color:gray">by Mark Twain</span>
 - Cats Cradle <span style="color:gray">by Kurt Vonnegut</span>
 - Slaughterhouse Five <span style="color:gray">by Kurt Vonnegut</span>
+- **The Martian** <span style="color:gray">**by Andy Weir**</span>
 - The Picture of Dorian Gray <span style="color:gray">by Oscar Wilde</span>
 - Stoner <span style="color:gray">by John Williams</span>
 - The Code of the Woosters <span style="color:gray">by P.G. Wodehouse</span>
