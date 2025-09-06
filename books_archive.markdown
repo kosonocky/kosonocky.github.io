@@ -8,6 +8,8 @@ permalink: /books/archive
 **Books I've read in reverse chronological order**
 
 2025:
+- The Third Wave <span style="color:gray">by Alvin Toffler</span>
+- The Big Sleep <span style="color:gray">by Raymond Chandle</span>
 - The Martian <span style="color:gray">by Andy Weir</span>
 - Foundation <span style="color:gray">by Isaac Asimov</span>
 - The Problems of Philosophy <span style="color:gray">by Bertrand Russell</span>

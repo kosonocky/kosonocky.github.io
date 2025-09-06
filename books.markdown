@@ -56,6 +56,7 @@ The following are books I found worth reading. Titles in **bold** are my favorit
 - Antifragile <span style="color:gray">by Nassim Taleb</span>
 - Skin in the Game <span style="color:gray">by Nassim Taleb</span>
 - Zero to One <span style="color:gray">by Peter Thiel</span>
+- **The Third Wave** <span style="color:gray">**by Alvin Toffler**</span>
 - Elon Musk <span style="color:gray">by Ashlee Vance</span>
 - The Double Helix <span style="color:gray">by James Watson</span>
 - The Way of Zen <span style="color:gray">by Alan Watts</span>
@@ -72,6 +73,7 @@ The following are books I found worth reading. Titles in **bold** are my favorit
 - The Fall <span style="color:gray">by Albert Camus</span>
 - The Plague <span style="color:gray">by Albert Camus</span>
 - The Stranger <span style="color:gray">by Albert Camus</span>
+- The Big Sleep <span style="color:gray">by Raymond Chandle</span>
 - Exhalation <span style="color:gray">by Ted Chiang</span>
 - **The Brothers Karamazov** <span style="color:gray">**by Fyodor Dostoevsky**</span>
 - **Crime and Punishment** <span style="color:gray">**by Fyodor Dostoevsky**</span>
