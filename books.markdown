@@ -15,6 +15,7 @@ The following are books I found worth reading. Titles in **bold** are my favorit
 - Profiles of the Future <span style="color:gray">by Arthur C. Clarke</span>
 - **The Fabric of Reality** <span style="color:gray">**by David Deutsch**</span>
 - **The Beginning of Infinity** <span style="color:gray">**by David Deutsch**</span>
+- My Family and Other Animals <span style="color:gray">by Gerald Durrell</span>
 - Enchiridion <span style="color:gray">by Epictetus</span>
 - Surely You’re Joking Mr. Feynman <span style="color:gray">by Richard Feynman</span>
 - What Do You Care What Other People Think? <span style="color:gray">by Richard Feynman</span>
@@ -200,6 +201,7 @@ I generally wouldn't recommend the following books
 - On Writing Well <span style="color:gray">by William Zinsser</span>
 
 Quit early:
+- A Brief History of Japan <span style="color:gray">by Jonathan Clements</span>
 - Barbarian Days <span style="color:gray">by William Finnegan</span>
 - The Crystal Frontier <span style="color:gray">by Carlos Fuentes</span>
 - His Master's Voice <span style="color:gray">by Stanislaw Lem</span>

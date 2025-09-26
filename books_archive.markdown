@@ -8,6 +8,8 @@ permalink: /books/archive
 **Books I've read in reverse chronological order**
 
 2025:
+- My Family and Other Animals <span style="color:gray">by Gerald Durrell</span>
+- A Brief History of Japan (quit early) <span style="color:gray">by Jonathan Clements</span>
 - The Third Wave <span style="color:gray">by Alvin Toffler</span>
 - The Big Sleep <span style="color:gray">by Raymond Chandle</span>
 - The Martian <span style="color:gray">by Andy Weir</span>
@@ -38,7 +40,7 @@ permalink: /books/archive
 <br/>
 
 2024:
-- The Name of the Wind (quit early)<span style="color:gray">by Patrick Rothfuss</span>
+- The Name of the Wind (quit early) <span style="color:gray">by Patrick Rothfuss</span>
 - The Crystal Frontier (quit early) <span style="color:gray">by Carlos Fuentes</span>
 - The Myth of Sisyphus <span style="color:gray">by Albert Camus</span>
 - Exhalation <span style="color:gray">by Ted Chiang</span>
