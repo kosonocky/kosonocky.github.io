@@ -17,21 +17,20 @@ The following are books I found worth reading. Titles in **bold** are my favorit
 - **The Beginning of Infinity** <span style="color:gray">**by David Deutsch**</span>
 - My Family and Other Animals <span style="color:gray">by Gerald Durrell</span>
 - Enchiridion <span style="color:gray">by Epictetus</span>
-- Surely You’re Joking Mr. Feynman <span style="color:gray">by Richard Feynman</span>
+- Surely You're Joking Mr. Feynman <span style="color:gray">by Richard Feynman</span>
 - What Do You Care What Other People Think? <span style="color:gray">by Richard Feynman</span>
 - The History of Sexuality Vol. 1: <span style="color:gray">by Michel Foucault</span>
 - **The Diary of Young Girl** <span style="color:gray">**by Anne Frank**</span>
-- Man’s Search for Meaning <span style="color:gray">by Viktor Frankl</span>
+- Man's Search for Meaning <span style="color:gray">by Viktor Frankl</span>
 - **Autobiography** <span style="color:gray">**by Benjamin Franklin**</span>
 - **The Ancient City** <span style="color:gray">**by Numa Denis Fustel de Coulanges**</span>
 - The Pursuit of Italy <span style="color:gray">by David Gilmore</span>
 - Genius <span style="color:gray">by James Gleick</span>
 - Chaos <span style="color:gray">by James Gleick</span>
 - The Second Coming of the KKK <span style="color:gray">by Linda Gordon</span>
-- The Intelligent Investor <span style="color:gray">by Benjamin Graham</span>
 - The Art of Doing Science and Engineering <span style="color:gray">by Richard Hamming</span>
 - Sapiens <span style="color:gray">by Yuval Noah Harari</span>
-- A Mathematician’s Apology <span style="color:gray">by GH Hardy</span>
+- A Mathematician's Apology <span style="color:gray">by GH Hardy</span>
 - Lying <span style="color:gray">by Sam Harris</span>
 - **The True Believer** <span style="color:gray">**by Eric Hoffer**</span>
 - **Godel, Escher, Bach** <span style="color:gray">**by Douglas Hofstadter**</span>
@@ -44,7 +43,7 @@ The following are books I found worth reading. Titles in **bold** are my favorit
 - The Emperor of All Maladies <span style="color:gray">by Siddhartha Mukherjee</span>
 - **Homage to Catalonia** <span style="color:gray">**by George Orwell**</span>
 - Enlightenment Now <span style="color:gray">by Steven Pinker</span>
-- The Omnivore’s Dilemma <span style="color:gray">by Michael Pollan</span>
+- The Omnivore's Dilemma <span style="color:gray">by Michael Pollan</span>
 - How to Change Your Mind <span style="color:gray">by Michael Pollan</span>
 - A New World Begins <span style="color:gray">by Jeremy Popkin</span>
 - Skunk Works <span style="color:gray">by Ben Rich</span>
@@ -96,8 +95,9 @@ The following are books I found worth reading. Titles in **bold** are my favorit
 - The Castle <span style="color:gray">by Franz Kafka</span>
 - The Metamorphosis <span style="color:gray">by Franz Kafka</span>
 - **The Trial** <span style="color:gray">**by Franz Kafka**</span>
-- One Flew Over the Cuckoo’s Nest <span style="color:gray">by Ken Kesey</span>
+- One Flew Over the Cuckoo's Nest <span style="color:gray">by Ken Kesey</span>
 - To Kill a Mockingbird <span style="color:gray">by Harper Lee</span>
+- Death in Venice <span style="color:gray">by Thomas Mann</span>
 - Love in the Time of Cholera <span style="color:gray">by Gabriel Garcia Marquez</span>
 - **One Hundred Years of Solitude** <span style="color:gray">**by Gabriel Garcia Marquez**</span>
 - Norwegian Wood <span style="color:gray">by Haruki Murakami</span>
@@ -140,14 +140,14 @@ The following are books I found worth reading. Titles in **bold** are my favorit
 
 I generally wouldn't recommend the following books
 
-- God’s Debris <span style="color:gray">by Scott Adams</span>
+- God's Debris <span style="color:gray">by Scott Adams</span>
 - Facing the Anthropocene <span style="color:gray">by Ian Angus</span>
 - Getting Things Done <span style="color:gray">by David Allen</span>
 - Payoff: The Hidden Logic that Shapes Our Motivations <span style="color:gray">by Dan Ariely</span>
 - The Ascent of Man <span style="color:gray">by Jacob Bronowski</span>
 - Bobos in Paradise (skimmed) <span style="color:gray">by David Brooks</span>
 - The Blue Zones Solution <span style="color:gray">by Dan Buettner</span>
-- Leave Me Alone and I’ll Make You Rich <span style="color:gray">by McCloskey and Carden</span>
+- Leave Me Alone and I'll Make You Rich <span style="color:gray">by McCloskey and Carden</span>
 - How to Win Friends & Influence People <span style="color:gray">by Dale Carnegie</span>
 - Influence <span style="color:gray">by Robert Cialdini</span>
 - Principles: Life & Work <span style="color:gray">by Ray Dalio</span>
@@ -163,6 +163,7 @@ I generally wouldn't recommend the following books
 - Outliers <span style="color:gray">by Malcolm Gladwell</span>
 - Talking to Strangers <span style="color:gray">by Malcolm Gladwell</span>
 - Blink <span style="color:gray">by Malcolm Gladwell</span>
+- The Intelligent Investor <span style="color:gray">by Benjamin Graham</span>
 - Foundations of Applied Mathematics <span style="color:gray">by Michael Greenberg</span>
 - 21 Lessons for the 21st Century <span style="color:gray">by Yuval Noah Harari</span>
 - Homo Deus <span style="color:gray">by Yuval Noah Harari</span>
@@ -179,8 +180,7 @@ I generally wouldn't recommend the following books
 - The Three-Body Problem <span style="color:gray">by Cixin Liu</span>
 - Too Soon Old, Too Late Smart <span style="color:gray">by Gordon Livingston</span>
 - The Prince <span style="color:gray">by Niccolò Machiavelli</span>
-- Death in Venice <span style="color:gray">by Thomas Mann</span>
-- The Science of Can and Can’t <span style="color:gray">by Chiara Marletto</span>
+- The Science of Can and Can't <span style="color:gray">by Chiara Marletto</span>
 - Letter from Birmingham Jail <span style="color:gray">by Martin Luther King Jr</span>
 - Bright Lights, Big City <span style="color:gray">by Jay McInerney</span>
 - What I Learned Losing a Million Dollars <span style="color:gray">by Paul and Moynihan</span>
