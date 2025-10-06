@@ -112,7 +112,7 @@ permalink: /books/archive
 - Siddhartha <span style="color:gray">by Herman Hesse (re-read)</span>
 - Think on These Things <span style="color:gray">by Krishnamurti</span>
 - Influence <span style="color:gray">by Robert Cialdini</span>
-- Too soon old, too late smart <span style="color:gray">by Gordon Livingston</span>
+- Too Soon Old, Too Late Smart <span style="color:gray">by Gordon Livingston</span>
 - The Great Gatsby <span style="color:gray">by F Scott Fitzgerald</span>
 - Antifragile <span style="color:gray">by Nassim Taleb</span>
 - Foundations of Applied Mathematics <span style="color:gray">by Michael Greenberg</span>
