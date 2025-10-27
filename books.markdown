@@ -152,6 +152,7 @@ I generally wouldn't recommend the following books
 - Influence <span style="color:gray">by Robert Cialdini</span>
 - Principles: Life & Work <span style="color:gray">by Ray Dalio</span>
 - The Selfish Gene <span style="color:gray">by Richard Dawkins</span>
+- Why is Sex Fun? <span style="color:gray">by Jared Diamond</span>
 - Managing Oneself <span style="color:gray">by Peter Drucker</span>
 - The Lessons of History <span style="color:gray">by Will & Ariel Durant</span>
 - Four Hour Workweek <span style="color:gray">by Tim Ferriss</span>

@@ -8,6 +8,8 @@ permalink: /books/archive
 **Books I've read in reverse chronological order**
 
 2025:
+- Why is Sex Fun? <span style="color:gray">by Jared Diamond</span>
+- A Brief History of Japan <span style="color:gray">by Jonathan Clements</span>
 - My Family and Other Animals <span style="color:gray">by Gerald Durrell</span>
 - A Brief History of Japan (quit early) <span style="color:gray">by Jonathan Clements</span>
 - The Third Wave <span style="color:gray">by Alvin Toffler</span>
