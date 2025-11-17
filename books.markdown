@@ -67,6 +67,7 @@ The following are books I found worth reading. Titles in **bold** are my favorit
 
 **Fiction**
 - **Foundation** <span style="color:gray">**by Isaac Asimov**</span>
+- Foundation and Empire <span style="color:gray">**by Isaac Asimov**</span>
 - Persuasion <span style="color:gray">by Jane Austen</span>
 - Pride and Prejudice <span style="color:gray">by Jane Austen</span>
 - Fahrenheit 451 <span style="color:gray">by Ray Bradbury</span>
