@@ -8,6 +8,7 @@ permalink: /books/archive
 **Books I've read in reverse chronological order**
 
 2025:
+- The Left Hand of Darkness <span style="color:gray">by Ursula K. Le Guin</span>
 - Foundation and Empire <span style="color:gray">by Isaac Asimov</span>
 - Why is Sex Fun? <span style="color:gray">by Jared Diamond</span>
 - A Brief History of Japan <span style="color:gray">by Jonathan Clements</span>

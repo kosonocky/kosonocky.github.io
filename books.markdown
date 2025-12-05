@@ -97,6 +97,7 @@ The following are books I found worth reading. Titles in **bold** are my favorit
 - The Metamorphosis <span style="color:gray">by Franz Kafka</span>
 - **The Trial** <span style="color:gray">**by Franz Kafka**</span>
 - One Flew Over the Cuckoo's Nest <span style="color:gray">by Ken Kesey</span>
+- The Left Hand of Darkness <span style="color:gray">by Ursula K. Le Guin</span>
 - To Kill a Mockingbird <span style="color:gray">by Harper Lee</span>
 - Death in Venice <span style="color:gray">by Thomas Mann</span>
 - Love in the Time of Cholera <span style="color:gray">by Gabriel Garcia Marquez</span>
