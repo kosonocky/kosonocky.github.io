@@ -136,13 +136,13 @@ The following are books I found worth reading. Titles in **bold** are my favorit
 - Janeway's Immunology <span style="color:gray">by Casey Weaver</span>
 
 
-<br/> 
+<!-- <br/>  -->
 
-<hr>
+<!-- <hr> -->
 
-<br/>
+<!-- <br/> -->
 
-I generally wouldn't recommend the following books
+<!-- I generally wouldn't recommend the following books
 
 - God's Debris <span style="color:gray">by Scott Adams</span>
 - Facing the Anthropocene <span style="color:gray">by Ian Angus</span>
@@ -210,7 +210,7 @@ Quit early:
 - Barbarian Days <span style="color:gray">by William Finnegan</span>
 - The Crystal Frontier <span style="color:gray">by Carlos Fuentes</span>
 - His Master's Voice <span style="color:gray">by Stanislaw Lem</span>
-- The Name of the Wind <span style="color:gray">by Patrick Rothfuss</span>
+- The Name of the Wind <span style="color:gray">by Patrick Rothfuss</span> -->
 
 
 
