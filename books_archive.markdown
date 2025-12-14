@@ -8,6 +8,8 @@ permalink: /books/archive
 **Books I've read in reverse chronological order**
 
 2025:
+- Discourse on the Method <span style="color:gray">by René Descartes</span>
+- Born Red <span style="color:gray">by Yuan Gao</span>
 - The Left Hand of Darkness <span style="color:gray">by Ursula K. Le Guin</span>
 - Foundation and Empire <span style="color:gray">by Isaac Asimov</span>
 - Why is Sex Fun? <span style="color:gray">by Jared Diamond</span>
@@ -75,7 +77,7 @@ permalink: /books/archive
 - Radical Chic & Mau-Mauing the Flak Catchers <span style="color:gray">by Tom Wolfe</span>
 - Lolita <span style="color:gray">by Vladimir Nabokov</span>
 - The Ascent of Man <span style="color:gray">by Jacob Bronowski</span>
-- The Diary of Young Girl <span style="color:gray">by Anne Frank</span>
+- The Diary of a Young Girl <span style="color:gray">by Anne Frank</span>
 - Economics in One Lesson <span style="color:gray">by Henry Hazlitt</span>
 - Homage to Catalonia <span style="color:gray">by George Orwell</span>
 - The Bell Jar <span style="color:gray">by Sylvia Plath</span>

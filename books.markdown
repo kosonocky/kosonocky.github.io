@@ -13,6 +13,7 @@ The following are books I found worth reading. Titles in **bold** are my favorit
 - **The Managerial Revolution** <span style="color:gray">**by James Burnham**</span>
 - The Myth of Sisyphus <span style="color:gray">by Albert Camus</span>
 - Profiles of the Future <span style="color:gray">by Arthur C. Clarke</span>
+- Discourse on the Method <span style="color:gray">by René Descartes</span>
 - **The Fabric of Reality** <span style="color:gray">**by David Deutsch**</span>
 - **The Beginning of Infinity** <span style="color:gray">**by David Deutsch**</span>
 - My Family and Other Animals <span style="color:gray">by Gerald Durrell</span>
@@ -20,10 +21,11 @@ The following are books I found worth reading. Titles in **bold** are my favorit
 - Surely You're Joking Mr. Feynman <span style="color:gray">by Richard Feynman</span>
 - What Do You Care What Other People Think? <span style="color:gray">by Richard Feynman</span>
 - The History of Sexuality Vol. 1: <span style="color:gray">by Michel Foucault</span>
-- **The Diary of Young Girl** <span style="color:gray">**by Anne Frank**</span>
+- **The Diary of a Young Girl** <span style="color:gray">**by Anne Frank**</span>
 - Man's Search for Meaning <span style="color:gray">by Viktor Frankl</span>
 - **Autobiography** <span style="color:gray">**by Benjamin Franklin**</span>
 - **The Ancient City** <span style="color:gray">**by Numa Denis Fustel de Coulanges**</span>
+- Born Red <span style="color:gray">by Yuan Gao</span>
 - The Pursuit of Italy <span style="color:gray">by David Gilmore</span>
 - Genius <span style="color:gray">by James Gleick</span>
 - Chaos <span style="color:gray">by James Gleick</span>
