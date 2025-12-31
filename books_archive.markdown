@@ -8,6 +8,8 @@ permalink: /books/archive
 **Books I've read in reverse chronological order**
 
 2025:
+- The Road to Serfdom <span style="color:gray">by Friedrich Hayek</span>
+- Notes from Underground <span style="color:gray">by Fyodor Dostoevsky</span>
 - Discourse on the Method <span style="color:gray">by René Descartes</span>
 - Born Red <span style="color:gray">by Yuan Gao</span>
 - The Left Hand of Darkness <span style="color:gray">by Ursula K. Le Guin</span>

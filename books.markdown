@@ -34,6 +34,7 @@ The following are books I found worth reading. Titles in **bold** are my favorit
 - Sapiens <span style="color:gray">by Yuval Noah Harari</span>
 - A Mathematician's Apology <span style="color:gray">by GH Hardy</span>
 - Lying <span style="color:gray">by Sam Harris</span>
+- The Road to Serfdom <span style="color:gray">by Friedrich Hayek</span>
 - **The True Believer** <span style="color:gray">**by Eric Hoffer**</span>
 - **Godel, Escher, Bach** <span style="color:gray">**by Douglas Hofstadter**</span>
 - Leonardo DaVinci <span style="color:gray">by Walter Isaacson</span>
@@ -80,6 +81,7 @@ The following are books I found worth reading. Titles in **bold** are my favorit
 - Exhalation <span style="color:gray">by Ted Chiang</span>
 - **The Brothers Karamazov** <span style="color:gray">**by Fyodor Dostoevsky**</span>
 - **Crime and Punishment** <span style="color:gray">**by Fyodor Dostoevsky**</span>
+- Notes from Underground <span style="color:gray">by Fyodor Dostoevsky</span>
 - The Gambler <span style="color:gray">by Fyodor Dostoevsky</span>
 - A Study in Scarlet <span style="color:gray">by Sir Arthur Conan Doyle</span>
 - As I Lay Dying <span style="color:gray">by William Faulkner</span>
