@@ -17,7 +17,6 @@ permalink: /books/archive
 - Why is Sex Fun? <span style="color:gray">by Jared Diamond</span>
 - A Brief History of Japan <span style="color:gray">by Jonathan Clements</span>
 - My Family and Other Animals <span style="color:gray">by Gerald Durrell</span>
-- A Brief History of Japan (quit early) <span style="color:gray">by Jonathan Clements</span>
 - The Third Wave <span style="color:gray">by Alvin Toffler</span>
 - The Big Sleep <span style="color:gray">by Raymond Chandle</span>
 - The Martian <span style="color:gray">by Andy Weir</span>
@@ -41,7 +40,7 @@ permalink: /books/archive
 - Their Eyes Were Watching God <span style="color:gray">by Zora Neale Hurston</span>
 - Wind, Sand, and Stars <span style="color:gray">by Antoine De Saint-Exupéry</span>
 - Persuasion <span style="color:gray">by Jane Austen</span>
-- Bobos in Paradise (skimmed) <span style="color:gray">by David Brooks</span>
+<!-- - Bobos in Paradise (skimmed) <span style="color:gray">by David Brooks</span> -->
 - A Study in Scarlet <span style="color:gray">by Sir Arthur Conan Doyle</span>
 - The Picture of Dorian Gray <span style="color:gray">by Oscar Wilde</span>
 
@@ -240,8 +239,8 @@ permalink: /books/archive
 - Elon Musk <span style="color:gray">by Ashlee Vance</span>
 
 
-
+<!-- 
 
 Skimmed and may or may not return to eventually. Mostly keeping this as a reference for myself:
 - International Politics of HIV/AIDS <span style="color:gray">by Hakan Seckinelgin</span>
-- After Democracy <span style="color:gray">by Zizi Papacharissi</span>
+- After Democracy <span style="color:gray">by Zizi Papacharissi</span> -->
