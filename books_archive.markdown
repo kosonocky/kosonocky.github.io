@@ -7,6 +7,9 @@ permalink: /books/archive
 
 **Books I've read in reverse chronological order**
 
+2026:
+- Stories of Your Life and Others <span style="color:gray">by Ted Chiang</span>
+
 2025:
 - The Road to Serfdom <span style="color:gray">by Friedrich Hayek</span>
 - Notes from Underground <span style="color:gray">by Fyodor Dostoevsky</span>

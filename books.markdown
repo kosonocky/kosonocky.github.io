@@ -79,6 +79,7 @@ The following are books I found worth reading. Titles in **bold** are my favorit
 - The Stranger <span style="color:gray">by Albert Camus</span>
 - The Big Sleep <span style="color:gray">by Raymond Chandle</span>
 - Exhalation <span style="color:gray">by Ted Chiang</span>
+- Stories of Your Life and Others <span style="color:gray">by Ted Chiang</span>
 - **The Brothers Karamazov** <span style="color:gray">**by Fyodor Dostoevsky**</span>
 - **Crime and Punishment** <span style="color:gray">**by Fyodor Dostoevsky**</span>
 - Notes from Underground <span style="color:gray">by Fyodor Dostoevsky</span>
