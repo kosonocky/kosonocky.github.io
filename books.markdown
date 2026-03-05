@@ -16,6 +16,7 @@ The following are books I found worth reading. Titles in **bold** are my favorit
 - Discourse on the Method <span style="color:gray">by René Descartes</span>
 - **The Fabric of Reality** <span style="color:gray">**by David Deutsch**</span>
 - **The Beginning of Infinity** <span style="color:gray">**by David Deutsch**</span>
+- The Story of Civilization 1: Our Oriental Heritage <span style="color:gray">by Will Durant</span>
 - My Family and Other Animals <span style="color:gray">by Gerald Durrell</span>
 - Enchiridion <span style="color:gray">by Epictetus</span>
 - Surely You're Joking Mr. Feynman <span style="color:gray">by Richard Feynman</span>
@@ -127,6 +128,7 @@ The following are books I found worth reading. Titles in **bold** are my favorit
 - Cats Cradle <span style="color:gray">by Kurt Vonnegut</span>
 - Slaughterhouse Five <span style="color:gray">by Kurt Vonnegut</span>
 - **The Martian** <span style="color:gray">**by Andy Weir**</span>
+- The Time Machine <span style="color:gray">by H.G. Wells</span>
 - The Picture of Dorian Gray <span style="color:gray">by Oscar Wilde</span>
 - Stoner <span style="color:gray">by John Williams</span>
 - The Code of the Woosters <span style="color:gray">by P.G. Wodehouse</span>
