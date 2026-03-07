@@ -17,6 +17,7 @@ The following are books I found worth reading. Titles in **bold** are my favorit
 - **The Fabric of Reality** <span style="color:gray">**by David Deutsch**</span>
 - **The Beginning of Infinity** <span style="color:gray">**by David Deutsch**</span>
 - The Story of Civilization 1: Our Oriental Heritage <span style="color:gray">by Will Durant</span>
+- The Story of Civilization 2: The Life of Greece <span style="color:gray">by Will Durant</span>
 - My Family and Other Animals <span style="color:gray">by Gerald Durrell</span>
 - Enchiridion <span style="color:gray">by Epictetus</span>
 - Surely You're Joking Mr. Feynman <span style="color:gray">by Richard Feynman</span>
