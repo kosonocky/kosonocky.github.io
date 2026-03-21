@@ -120,6 +120,7 @@ The following are books I found worth reading. Titles in **bold** are my favorit
 - Dirty Hands <span style="color:gray">by Jean-Paul Sartre</span>
 - What Makes Sammy Run <span style="color:gray">by Budd Schulberg</span>
 - **Hyperion** <span style="color:gray">**by Dan Simmons**</span>
+- One Day in the Life of Ivan Denisovich <span style="color:gray">by Aleksandr Solzhenitsyn</span>
 - Snow Crash <span style="color:gray">by Neal Stephenson</span>
 - The Hobbit <span style="color:gray">by JRR Tolkien</span>
 - **The Lord of the Rings** <span style="color:gray">**by JRR Tolkien**</span>

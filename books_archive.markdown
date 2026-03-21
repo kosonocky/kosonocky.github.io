@@ -8,6 +8,7 @@ permalink: /books/archive
 **Books I've read in reverse chronological order**
 
 2026:
+- One Day in the Life of Ivan Denisovich <span style="color:gray">by Aleksandr Solzhenitsyn</span>
 - The Story of Civilization 2: The Life of Greece <span style="color:gray">by Will Durant</span>
 - The Time Machine <span style="color:gray">by H.G. Wells</span>
 - The Story of Civilization 1: Our Oriental Heritage <span style="color:gray">by Will Durant</span>
