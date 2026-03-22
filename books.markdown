@@ -4,7 +4,7 @@ title: books
 permalink: /books/
 ---
 
-The following are books I found worth reading. Titles in **bold** are my favorites and/or the books I recommend most often.
+The following are books I found worth reading. Titles in **bold** are my favorites and/or the books I have recommended.
 
 **Non-Fiction**
 - Meditations <span style="color:gray">by Marcus Aurelius</span>
@@ -44,6 +44,7 @@ The following are books I found worth reading. Titles in **bold** are my favorit
 - Plagues and Peoples <span style="color:gray">by William H. McNeil</span>
 - The Way to Love <span style="color:gray">by Anthony De Mello</span>
 - Awareness <span style="color:gray">by Anthony de Mello</span>
+- Lenin on the Train <span style="color:gray">by Catherine Merridale</span>
 - **The Captive Mind** <span style="color:gray">**by Czeslaw Milosz**</span>
 - The Emperor of All Maladies <span style="color:gray">by Siddhartha Mukherjee</span>
 - **Homage to Catalonia** <span style="color:gray">**by George Orwell**</span>
