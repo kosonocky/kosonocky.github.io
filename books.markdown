@@ -127,6 +127,7 @@ The following are books I found worth reading. Titles in **bold** are my favorit
 - **The Lord of the Rings** <span style="color:gray">**by JRR Tolkien**</span>
 - **Anna Karenina** <span style="color:gray">**by Leo Tolstoy**</span>
 - The Cossacks <span style="color:gray">by Leo Tolstoy</span>
+- **The Death of Ivan Ilych** <span style="color:gray">**by Leo Tolstoy**</span>
 - The Adventures of Tom Sawyer <span style="color:gray">by Mark Twain</span>
 - Cats Cradle <span style="color:gray">by Kurt Vonnegut</span>
 - Slaughterhouse Five <span style="color:gray">by Kurt Vonnegut</span>

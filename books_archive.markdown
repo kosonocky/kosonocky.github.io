@@ -8,6 +8,7 @@ permalink: /books/archive
 **Books I've read in reverse chronological order**
 
 2026:
+- The Death of Ivan Ilych <span style="color:gray">by Leo Tolstoy</span>
 - Lenin on the Train <span style="color:gray">by Catherine Merridale</span>
 - One Day in the Life of Ivan Denisovich <span style="color:gray">by Aleksandr Solzhenitsyn</span>
 - The Story of Civilization 2: The Life of Greece <span style="color:gray">by Will Durant</span>
