@@ -33,6 +33,7 @@ plugins:
   - jekyll-feed
 
 header_pages:
+  - essays.markdown
   - books.markdown
 
 minima:

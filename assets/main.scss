@@ -377,6 +377,19 @@ hr {
     padding-left: 0;
 }
 
+/* Tiny gap so the page title (essays, books) isn't flush with the header border */
+.post-header {
+    padding-top: 22px;
+}
+.post-title {
+    margin-top: 0;
+}
+@media (max-width: 768px) {
+    .post-header {
+        padding-top: 14px;
+    }
+}
+
 
 
 
