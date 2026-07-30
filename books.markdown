@@ -4,10 +4,10 @@ title: books
 permalink: /books/
 ---
 
+Books I've read in reverse chronological order
 
-**Books I've read in reverse chronological order**
-
-2026:
+## 2026
+{: .books-year}
 - The Story of Civilization 3: Caesar and Christ <span style="color:gray">by Will Durant</span>
 - The Death of Ivan Ilych <span style="color:gray">by Leo Tolstoy</span>
 - Lenin on the Train <span style="color:gray">by Catherine Merridale</span>
@@ -17,7 +17,8 @@ permalink: /books/
 - The Story of Civilization 1: Our Oriental Heritage <span style="color:gray">by Will Durant</span>
 - Stories of Your Life and Others <span style="color:gray">by Ted Chiang</span>
 
-2025:
+## 2025
+{: .books-year}
 - The Road to Serfdom <span style="color:gray">by Friedrich Hayek</span>
 - Notes from Underground <span style="color:gray">by Fyodor Dostoevsky</span>
 - Discourse on the Method <span style="color:gray">by René Descartes</span>
@@ -54,9 +55,9 @@ permalink: /books/
 - A Study in Scarlet <span style="color:gray">by Sir Arthur Conan Doyle</span>
 - The Picture of Dorian Gray <span style="color:gray">by Oscar Wilde</span>
 
-<br/>
 
-2024:
+## 2024
+{: .books-year}
 - The Name of the Wind (quit early) <span style="color:gray">by Patrick Rothfuss</span>
 - The Crystal Frontier (quit early) <span style="color:gray">by Carlos Fuentes</span>
 - The Myth of Sisyphus <span style="color:gray">by Albert Camus</span>
@@ -98,9 +99,9 @@ permalink: /books/
 - One Hundred Years of Solitude <span style="color:gray">by Gabriel Garcia Marquez</span>
 - Hyperion <span style="color:gray">by Dan Simmons</span>
 
-<br/>
 
-2023:
+## 2023
+{: .books-year}
 - Pride and Prejudice <span style="color:gray">by Jane Austen</span>
 - Fahrenheit 451 <span style="color:gray">by Ray Bradbury</span>
 - The Fire Next Time <span style="color:gray">by James Baldwin</span>
@@ -118,9 +119,9 @@ permalink: /books/
 - 1984 <span style="color:gray">by George Orwell</span>
 - A Farewell to Arms <span style="color:gray">by Ernest Hemingway</span>
 
-<br/>
 
-2022:
+## 2022
+{: .books-year}
 - Dirty Hands <span style="color:gray">by Jean-Paul Sartre</span>
 - No Exit <span style="color:gray">by Jean-Paul Sartre</span>
 - How to Invest <span style="color:gray">by David Rubenstein</span>
@@ -149,9 +150,9 @@ permalink: /books/
 - The Prophet <span style="color:gray">by Kahlil Gibran</span>
 - The Way of Zen <span style="color:gray">by Alan Watts</span>
 
-<br/>
 
-2021:
+## 2021
+{: .books-year}
 - Letters from a Stoic <span style="color:gray">by Seneca</span>
 - God’s Debris <span style="color:gray">by Scott Adams</span>
 - Love Yourself Like Your Life Depends On It <span style="color:gray">by Kamal Ravikant</span>
@@ -181,9 +182,9 @@ permalink: /books/
 - Harry Potter & the Chamber of Secrets <span style="color:gray">by JK Rowling</span>
 - 21 Lessons for the 21st Century <span style="color:gray">by Yuval Noah Harari</span>
 
-<br/>
 
-2020:
+## 2020
+{: .books-year}
 - Physics of Wall Street <span style="color:gray">by James Owen Weatherall</span>
 - Moonwalking with Einstein <span style="color:gray">by Joshua Foer</span>
 - The Lessons of History <span style="color:gray">by Will & Ariel Durant</span>
@@ -223,9 +224,9 @@ permalink: /books/
 - Outliers <span style="color:gray">by Malcolm Gladwell</span>
 - Zero to One <span style="color:gray">by Peter Thiel</span>
 
-<br/>
 
-2019:
+## 2019
+{: .books-year}
 - Getting Things Done <span style="color:gray">by David Allen</span>
 - Payoff: The Hidden Logic that Shapes Our Motivations <span style="color:gray">by Dan Ariely</span>
 - Meditations <span style="color:gray">by Marcus Aurelius</span>
@@ -235,15 +236,15 @@ permalink: /books/
 - The Blue Zones Solution <span style="color:gray">by Dan Buettner</span>
 - One Flew Over the Cuckoo’s Nest <span style="color:gray">by Ken Kesey</span>
 
-<br/>
 
-2018:
+## 2018
+{: .books-year}
 - Chaos <span style="color:gray">by James Gleick</span>
 - Blink <span style="color:gray">by Malcolm Gladwell</span>
 
-<br/>
 
-2017
+## 2017
+{: .books-year}
 - Astrophysics for People in a Hurry <span style="color:gray">by Neil Degrasse Tyson</span>
 - Seven Brief Lessons on Physics <span style="color:gray">by Carlo Rovelli</span>
 - Elon Musk <span style="color:gray">by Ashlee Vance</span>

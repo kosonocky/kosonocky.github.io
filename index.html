@@ -12,9 +12,12 @@ layout: home
     <meta charset="utf-8">
     <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
     <title>Clayton Kosonocky</title>
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=DM+Mono:wght@300;400;500&amp;family=Manrope:wght@400;500;600;700&amp;family=Syne:wght@500;600;700;800&amp;display=swap" rel="stylesheet">
     <link rel="stylesheet" type="text/css" href="assets/main.css">
   </head>
-  <body>
+  <body class="design-texture design-timeline design-papers design-paper design-quiet-type design-links design-dense-lists design-previews design-pub-color">
 
 <div class="container">
 
@@ -56,6 +59,34 @@ layout: home
     e_is_shown = !e_is_shown;
     })
 </script>
+
+<script type="text/javascript">
+  document.addEventListener('DOMContentLoaded', function () {
+    function addPreview(items, anchor, limit) {
+      if (items.length <= limit) return;
+      const button = document.createElement('button');
+      button.type = 'button';
+      button.className = 'section-more';
+      button.setAttribute('aria-expanded', 'false');
+      anchor.insertAdjacentElement('afterend', button);
+
+      function render(expanded) {
+        items.forEach(function (item, index) { item.hidden = !expanded && index >= limit; });
+        button.textContent = expanded ? 'Show less ↑' : 'Show ' + (items.length - limit) + ' more ↓';
+        button.setAttribute('aria-expanded', expanded ? 'true' : 'false');
+      }
+
+      button.addEventListener('click', function () { render(button.getAttribute('aria-expanded') !== 'true'); });
+      render(false);
+    }
+
+    const publications = Array.from(document.querySelectorAll('.pub'));
+    if (publications.length) addPreview(publications, publications[publications.length - 1], 5);
+    const lists = Array.from(document.querySelectorAll('.container > ul'));
+    if (lists.length) addPreview(Array.from(lists[lists.length - 1].children), lists[lists.length - 1], 10);
+  });
+</script>
+
 
 <hr>
 
@@ -132,56 +163,47 @@ layout: home
 </div>
 
 <hr>
-<h1>Publications</h1>
+<h1>Selected Publications</h1>
 
 <div class="pub">
-  <a class="pub-title" href="https://doi.org/10.1016/j.sbi.2026.103272">Closing the loop: Experimentally validated methods in artificial intelligence-driven protein design</a> | <span class="pub-venue">Current Opinion in Structural Biology</span> 2026
+  <a class="pub-title" href="https://doi.org/10.1016/j.sbi.2026.103272">Closing the loop: Experimentally validated methods in artificial intelligence-driven protein design</a> <span class="pub-venue">Current Opinion in Structural Biology</span> 2026
   <span class="pub-authors">Clayton Kosonocky, Sarah Alamdari, Kevin Yang, Ava Amini</span>
 </div>
 
 <div class="pub">
-  <a class="pub-title" href="https://doi.org/10.64898/2026.03.03.709355">Validation and analysis of 12,000 AI-driven CAR-T designs in the Bits to Binders competition</a> | <span class="pub-venue">bioRxiv</span> 2026
+  <a class="pub-title" href="https://doi.org/10.64898/2026.03.03.709355">Validation and analysis of 12,000 AI-driven CAR-T designs in the Bits to Binders competition</a> <span class="pub-venue">bioRxiv</span> 2026
   <span class="pub-authors">Clayton Kosonocky, Alex Abel, Aaron Feller, Amanda Cifuentes Rieffer, Phillip Woolley, Jakub Lála, Daryl Barth, Tynan Gardner, Bits to Binders Competitors, Stephen Ekker, Andrew Ellington, Wesley Wierson, Edward Marcotte</span>
 </div>
 
 <div class="pub">
-  <a class="pub-title" href="https://doi.org/10.1039/D4DD00011K">Mining patents with large language models elucidates the chemical function landscape</a> | <span class="pub-venue">Digital Discovery</span> 2024
+  <a class="pub-title" href="https://doi.org/10.1039/D4DD00011K">Mining patents with large language models elucidates the chemical function landscape</a> <span class="pub-venue">Digital Discovery</span> 2024
   <span class="pub-authors">Clayton Kosonocky, Claus Wilke, Edward Marcotte, Andrew Ellington</span>
 </div>
 
 <div class="pub">
-  <a class="pub-title" href="https://doi.org/10.1016/j.patter.2023.100865">Using alternative SMILES representations to identify novel functional analogues in chemical similarity vector searches</a> | <span class="pub-venue">Patterns</span> 2023
+  <a class="pub-title" href="https://doi.org/10.1016/j.patter.2023.100865">Using alternative SMILES representations to identify novel functional analogues in chemical similarity vector searches</a> <span class="pub-venue">Patterns</span> 2023
   <span class="pub-authors">Clayton Kosonocky, Aaron Feller, Claus Wilke, Andrew Ellington</span>
 </div>
 
 <div class="pub">
-  <a class="pub-title" href="https://doi.org/10.1021/acs.biochem.2c00668">Evolving to Evolve, Dan Tawfik’s Insights into Protein Engineering</a> | <span class="pub-venue">Biochemistry</span> 2023
+  <a class="pub-title" href="https://doi.org/10.1021/acs.biochem.2c00668">Evolving to Evolve, Dan Tawfik’s Insights into Protein Engineering</a> <span class="pub-venue">Biochemistry</span> 2023
   <span class="pub-authors">Clayton Kosonocky, Andrew Ellington</span>
 </div>
 
 <div class="pub">
-  <a class="pub-title" href="https://doi.org/10.1021/acssynbio.5c00106">Directed Evolution of a SelB Variant that Does Not Require a Selenocysteine Insertion Sequence Element for Function</a> | <span class="pub-venue">ACS Synthetic Biology</span> 2025
+  <a class="pub-title" href="https://doi.org/10.1021/acssynbio.5c00106">Directed Evolution of a SelB Variant that Does Not Require a Selenocysteine Insertion Sequence Element for Function</a> <span class="pub-venue">ACS Synthetic Biology</span> 2025
   <span class="pub-authors">Satoshi Ishida, Arno Gundlach, Clayton Kosonocky, Andrew Ellington</span>
 </div>
 
 <div class="pub">
-  <a class="pub-title" href="https://doi.org/10.1101/2022.12.11.519963">Directed evolution of generalist biosensors for single ring aromatics</a> | <span class="pub-venue">bioRxiv</span> 2022
+  <a class="pub-title" href="https://doi.org/10.1101/2022.12.11.519963">Directed evolution of generalist biosensors for single ring aromatics</a> <span class="pub-venue">bioRxiv</span> 2022
   <span class="pub-authors">Hannah Cole, Clayton Kosonocky, Mason Schechter, Jimmy Gollihar, Andrew Ellington, Simon d'Oelsnitz</span>
 </div>
 
 <div class="pub">
-  <a class="pub-title" href="https://doi.org/10.1101/2022.12.11.519963">How our authors are using AI in manuscript writing</a> | <span class="pub-venue">Patterns</span> 2024
+  <a class="pub-title" href="https://doi.org/10.1101/2022.12.11.519963">How our authors are using AI in manuscript writing</a> <span class="pub-venue">Patterns</span> 2024
   <span class="pub-authors">Yinqi Bai, Clayton Kosonocky, James Wang</span>
 </div>
-
-<hr>
-<h1>Awards</h1>
-<ul>
-  <li>Charles Smith, Jr. Graduate Fellowship in Molecular Biosciences, <span style="color:gray">January 2026 - May 2026</span></li>
-  <li><a href="https://events.ycombinator.com/ai-sus" style="text-decoration: underline;">Y Combinator AI Startup School</a> invitation and travel grant, <span style="color:gray">June 2025</span></li>
-  <li>Graduate Continuing Research Fellowship, The University of Texas at Austin, <span style="color:gray">June 2024 - May 2025</span></li>
-  <li>Best Poster Award, ILS Department Retreat, <span style="color:gray">August 2023</span></li>
-</ul>
 
 <hr>
 <h1>Media</h1>
@@ -190,8 +212,15 @@ layout: home
   <li><a href="https://www.nature.com/articles/d41586-024-03335-z" style="text-decoration: underline;">AI has dreamt up a blizzard of new proteins. Do any of them actually work?</a> <span style="color:gray">— <em>Nature</em>, October 2024</span></li>
 </ul>
 
-<hr>
-<h1>Talks and Posters</h1>
+<h1>Awards</h1>
+<ul>
+  <li>Charles Smith, Jr. Graduate Fellowship in Molecular Biosciences, <span style="color:gray">January 2026 - May 2026</span></li>
+  <li><a href="https://events.ycombinator.com/ai-sus" style="text-decoration: underline;">Y Combinator AI Startup School</a> invitation and travel grant, <span style="color:gray">June 2025</span></li>
+  <li>Graduate Continuing Research Fellowship, The University of Texas at Austin, <span style="color:gray">June 2024 - May 2025</span></li>
+  <li>Best Poster Award, ILS Department Retreat, <span style="color:gray">August 2023</span></li>
+</ul>
+
+<h1>Recent Talks and Posters</h1>
 <ul>
   <li>Kevin Drew Lab Meeting Guest Presentation<span style="color:gray"> — University of Illinois Chicago, May 2026</span></li>
   <li>Guest Lecture, BCH 339N Systems Biology and Bioinformatics<span style="color:gray"> — UT Austin, February 2026</span></li>
