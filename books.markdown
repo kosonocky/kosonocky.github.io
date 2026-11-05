@@ -8,8 +8,8 @@ Books I've read in reverse chronological order
 
 ## 2026
 {: .books-year}
-- Works in Progress Magazine – Issue 26</span>
-- Works in Progress Magazine – Issue 25</span>
+- Works in Progress Magazine – Issue 26
+- Works in Progress Magazine – Issue 25
 - The Story of Civilization 3: Caesar and Christ <span style="color:gray">by Will Durant</span>
 - The Death of Ivan Ilych <span style="color:gray">by Leo Tolstoy</span>
 - Lenin on the Train <span style="color:gray">by Catherine Merridale</span>
